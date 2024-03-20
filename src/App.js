@@ -2,7 +2,259 @@ import './App.css';
 function App() {
   return (
    <div className="App">
-    <hr></hr>
+    
+
+
+
+
+
+
+    <div className="App">
+      <div className="title">
+        <img width="150px" src="./images/bg.webp" alt=""></img>
+        <p className="titlename">Bullock cart</p>
+        <img width="150px" src="./images/bg1.jpg" alt=""></img>
+      </div>
+      <h1>Bullock cart</h1>
+      <hr></hr>
+
+      <div>
+        <p>
+          A <b>bullock cart or ox cart </b>(sometimes called a bullock carriage when
+          carrying people in particular) is a two-wheeled or four-wheeled
+          vehicle pulled by oxen. It is a means of transportation used since
+          ancient times in many parts of the world. They are still used today
+          where modern vehicles are too expensive or the infrastructure favor
+          them.
+          <br></br>
+          <br></br>Used especially for carrying goods, the bullock cart is
+          pulled by one or several oxen. The cart is attached to an ox team by a
+          special chain attached to yokes, but a rope may also be used for one
+          or two animals. The driver and any other passengers sit on the front
+          of the cart, while load is placed in the back. Traditionally, the
+          cargo was usually agrarian goods and lumber.
+        </p>
+
+        <div className="sideimg">
+          <a href="./images/panjab.jpg">
+            <img width="85%" src="./images/panjab.jpg" alt=""></img>
+          </a>
+          <br></br> A Bullock cart in Punjab,India
+        </div>
+
+      </div>
+
+      <h2>History</h2>
+      <hr></hr>
+      <p style={{ width: "100%" }}>
+        The first indications for the use of a wagon (cart tracks, incisions,
+        model wheels) are dated to around 4400 BC. The oldest wooden wheels
+        usable for transport were found in southern Russia and dated to 3325 ±
+        125 BC.Evidence of wheeled vehicles appears from the mid 4th millennium
+        BC between the North Sea and Mesopotamia. The earliest vehicles may have
+        been ox carts.
+      </p>
+
+      <h2>Australia</h2>
+      <hr></hr>
+      <div>
+        <p>
+          In Australia, bullock carts were referred to as bullock drays, had
+          four wheels, and were usually used to carry large loads. Drays were
+          pulled by bullock teams which could consist of 20 or more animals. The
+          driver of a bullock team was known as a 'bullocky'.<br></br>
+          <br></br>Bullock teams were used extensively to transport produce from
+          rural areas to major towns and ports. Because of Australia's size,
+          these journeys often covered large distances and could take many days
+          and even weeks.
+        </p>
+
+        <div className="sideimg">
+          <a href="./images/indiapeople.jpg">
+            <img width="90%" src="./images/indiapeople.jpg" alt=""></img>
+          </a>
+          <br></br> Indian people with their Bullock cart in 19s.
+        </div>
+      </div>
+
+      <h2>Cost Rica</h2>
+      <hr></hr>
+      <div>
+        <p>
+          {" "}
+          In Costa Rica, ox carts (carretas in the Spanish language) were an
+          important aspect of daily life and commerce, especially between 1850
+          and 1935, developing a unique construction and decoration tradition
+          that is still being developed. Costa Rican parades and traditional
+          celebrations are not complete without a traditional ox cart parade.
+          <br></br>
+          <br></br> In 1988, the traditional ox cart was declared as National
+          Symbol of Work by the Costa Rican government. <br></br>
+          <br></br>In 2005, the "Oxherding and Oxcart Traditions in Costa Rica"
+          were included in UNESCO's Representative List of the Intangible
+          Cultural Heritage of Humanity.
+        </p>
+
+        <div className="sideimg">
+          <a href="./images/colorpost.jpeg">
+            <img width="100%" src="./images/colorpost.jpeg" alt=""></img>
+          </a><br></br>
+          A colour postcard printed in England by Raphael Tuck & Sons, and
+          featuring an "Oilette" image of a bullock team carting a load of wool.
+          The card is titled: "An Australian Sheep Station. Carting the Wool."
+        </div>
+      </div>
+
+
+
+      <h2>Indonesia</h2>
+      <hr></hr>
+
+      <div>
+       <p> In Indonesia, bullock carts are used in the rural parts of the country
+        for transporting goods and people, but more often in Indonesia are
+        horsecars used rather than bullock carts. A bullock cart driver is known
+        as, in Indonesian, a bajingan.</p>
+   
+      <div className="sideimg">
+        <a href="./images/temple.jpeg">
+          <img width="100%"  src="./images/temple.jpeg" alt=""></img>
+        </a><br></br>
+        Ox cart with bajingan at Prambanan Temple Festival
+      </div>
+
+      </div>
+
+      <h2>Malaysia</h2>
+      <hr></hr>
+      <div>
+        <p style={{width:"100%"}}>Bullock carts were widely used in Malaysia before the introduction of
+        automobiles, and many are still used today. These included passenger
+        vehicles, now used especially for tourists.[4] Passenger carts are
+        usually equipped with awnings for protection against sun and rain, and
+        are often gaily decorated</p>
+      </div>
+
+      <h2>North Korea</h2>
+      <hr></hr>
+      <div>
+       <p style={{width:"100%"}}>Bullock carts, called dalguji, are still extensively used in North Korea
+        because of fuel shortages. It is perhaps the last country where it is
+        used for everyday transportation, both in agriculture and in military.</p>
+      </div>
+
+      <h2>Gallery</h2>
+      <hr></hr>
+
+      <div className="images">
+        <a href="./images/argentina.jpg">
+          <img style={{ width: "100%" }} src="./images/argentina.jpg" alt=""></img>
+        </a>
+        Gauchos with an ox-drawn cart in Argentina
+      </div>
+
+
+      <div className="images">
+      <a href="./images/portugal.jpg">
+          <img style={{ width: "100%" }} src="./images/portugal.jpg" alt=""></img>
+        </a>
+        Cattle-drawn cart in Portugal
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/india.jpg">
+          <img style={{ width: "100%" }} src="./images/india.jpg" alt=""></img>
+        </a>
+        Bullock cart in Mysore Zoo, India
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/india1.jpg">
+          <img style={{ width: "100%" }} src="./images/india1.jpg" alt=""></img>
+        </a>
+        cart in India
+      </div>
+
+
+      
+      <div className="images">
+      <a href="./images/costarica.jpg">
+          <img style={{ width: "100%" }} src="./images/costarica.jpg" alt=""></img>
+        </a>
+        Typical oxcart decoration of Costa Rica
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/texas.jpg">
+          <img style={{ width: "100%" }} src="./images/texas.jpg" alt=""></img>
+        </a>
+        Mexican carreta in El Paso, Texas, circa 1885
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/japan.jpg">
+          <img style={{ width: "100%" }} src="./images/japan.jpg" alt=""></img>
+        </a>
+        Reproduction Japanese aristocracy's bullock cart in Jidai Matsuri
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/punjab1.jpg">
+          <img style={{ width: "100%" }} src="./images/punjab1.jpg" alt=""></img>
+        </a>
+        Bullock Cart in Punjab
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/california.jpg">
+          <img style={{ width: "100%" }} src="./images/california.jpg" alt=""></img>
+        </a>
+        bullock cart of 1836 in California
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/niger.jpg">
+          <img style={{ width: "100%" }} src="./images/niger.jpg" alt=""></img>
+        </a>
+        Ox-drawn cart in Filingué, Niger
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/srilanka.jpg">
+          <img style={{ width: "100%" }} src="./images/srilanka.jpg" alt=""></img>
+        </a>
+        Bullock cart race in Jaffna, Sri Lanka
+      </div>
+
+
+
+      <div className="images">
+      <a href="./images/georgia.jpg">
+          <img style={{ width: "100%" }} src="./images/georgia.jpg" alt=""></img>
+        </a>
+        Ox-drawn cart in Georgia, circa 1883
+      </div>
+
+
+    </div>
+
+
 
 
 
