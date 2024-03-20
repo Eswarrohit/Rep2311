@@ -2,7 +2,6 @@ import './App.css';
 function App() {
   return (
    <div className="App">
-       <h1>Ship</h1>
     <hr></hr>
 
 
@@ -785,6 +784,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
     
 
 
+<h1>Ship</h1>
 
  <p>A ship is a large vessel that travels the world's oceans and other navigable waterways, carrying cargo or passengers, or in support of specialized missions, such as defense, research and fishing. Ships are generally distinguished from boats, based on size, shape, load capacity and purpose. Ships have supported exploration, trade, warfare, migration, colonization, and science. Ship transport is responsible for the largest portion of world commerce.The word ship has meant, depending on the era and the context, either just a large vessel or specifically a ship-rigged sailing ship with three or more masts, each of which is square-rigged.As of 2016, there were more than 49,000 merchant ships, totaling almost 1.8 billion deadweight tons. Of these 28% were oil tankers, 43% were bulk carriers, and 13% were container ships.
 The earliest historical evidence of boats is found in Egypt during the 4th millennium BCE.
@@ -851,7 +851,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           <ul>Fijian voyaging outrigger boat with a crab claw sail</ul>
         
           <img src='./images/Ship3.jpeg' width="100%"></img>
-          <ul>One of the sailing trimarans depicted in Borobudur temple, c. 8th century AD in Java, Indonesia</ul>
+          <ul>. 8th century AD in Java, Indonesia</ul>
         </div>
        
        <p>In the 2nd century AD, people from the Indonesian archipelago already made large ships measuring over 50 m long and standing 4–7 m out of the water. They could carry 600–1000 people and 250–1000 ton cargo. These ships were known as kunlun bo or k'unlun po (崑崙舶, lit. "ship of the Kunlun people") by the Chinese, and kolandiaphonta by the Greeks. They had 4–7 masts and were able to sail against the wind due to the usage of tanja sails. These ships may have reached as far as Ghana In the 11th century, a new type of ship called djong or jong was recorded in Java and Bali.This type of ship was built using wooden dowels and treenails, unlike the kunlun bo which used vegetal fibres for lashings.
@@ -875,7 +875,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
       
 
         <img src='./images/Ship5.jpg' width="100%"></img>
-        <ul>A Roman ship carved on the face of the "Ship Sarcophagus", c. 2nd century AD</ul>
+        <ul> "Ship Sarcophagus", c. 2nd century AD</ul>
       
       </div>
       <br></br>
@@ -907,7 +907,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
   </div>
   <div className='Image'>
     <img src='./images/Ship8.jpg' width="100%" ></img>
-    <ul>Replica of Magellan's Victoria. Ferdinand Magellan and Juan Sebastián Elcano led the first expedition that circumnavigated the globe in 1519–1522.</ul>
+    <ul>Replica of Magellan's Victoria. Ferdinand Magellan </ul>
   </div>
   <p>The carrack was developed in Portugal, the Crown of Castile and the Crown of Aragon, then the caravel was developed in Portugal and the galleon was developed in Spain. After Columbus, European exploration rapidly accelerated, and many new trade routes were established.[46] In 1498, by reaching India, Vasco da Gama proved that access to the Indian Ocean from the Atlantic was possible. These explorations in the Atlantic and Indian Oceans were soon followed by France, England and the Netherlands, who explored the Portuguese and Spanish trade routes into the Pacific Ocean, reaching Australia in 1606 and New Zealand in 1642.[47] After the 15th century, new crops that had come from and to the Americas via the European seafarers significantly contributed to world population growth</p>
   <br></br>
@@ -936,15 +936,15 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
 
 
  <h1 style={{ fontSize: "2.5rem" }}>Air Transport</h1>
-      <h2>
+      <p>
         Air transport is one of the fastest modes of public transport which
         connects international boundaries. Air transport allows people from
         different countries to cross international boundaries and travel other
         countries for personal, business, medical, and tourism purposes.
-      </h2>
+      </p>
       <div>
         <hr></hr>
-        <h2>
+        <p>
           <mark>History of flight : </mark> development of heavier-than-air
           flying machines. Important landmarks and events along the way to the
           invention of the airplane include an understanding of the dynamic
@@ -954,18 +954,18 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           Wright brothers demonstrated that the basic technical problems had
           been overcome at the start of the 20th century, military and civil
           aviation developed quickly
-        </h2>
+        </p>
         <img src="./plane/wright-brothers.jpg"></img>
         <img src="./plane/plane.jpg"></img>
       </div>
 
-      <h2>
+      <p>
         <mark>Orville and Wilbur Wright</mark> were the inventors of the first
         airplane. On December 17, 1903, the Wright brothers launched the era of
         human flight when they successfully tested a flying vehicle that took
         off by its own power, flew naturally at even speeds, and descended
         without damage
-      </h2>
+      </p>
       <div>
         <hr></hr>
         <hr></hr>
@@ -973,7 +973,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           <mark>Invention of Aerolplane </mark>
         </h1>
         <div id="container">
-          <h2>
+          <p>
             On the evening of Sept. 18, 1901, Wilbur Wright, a 33-year-old
             businessman from Dayton, Ohio, addressed a distinguished group of
             Chicago engineers on the subject of “Some Aeronautical Experiments”
@@ -997,7 +997,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
             the first great public enthusiasm for the airplane as a symbol of
             human achievement as the airplane took its first steps toward
             becoming a world changing technology.
-          </h2>
+          </p>
         </div>
         <div id="pic">
           <img src="./plane/mapp.gif"></img>
@@ -1011,7 +1011,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           </h1>
         </mark>
         <div id="container1">
-          <h2>
+          <p>
             The work of the Wright brothers inspired an entire generation of
             flying-machine experimenters in Europe and the Americas. The
             Brazilian experimenter Alberto Santos-Dumont, for instance, made the
@@ -1034,7 +1034,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
             development of aeronautics in one or more ways: through science and
             theory, theoretical or applied design, by constructing models or
             experimental prototype
-          </h2>
+          </p>
         </div>
         <div id="pic1">
           <img src="./plane/aviaa.jpg" height="450px" width="600px"></img>
@@ -1050,7 +1050,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           <img src="./plane/airline.jpg" width="500px" height="400px"></img>
         </div>
         <div id="container2">
-          <h2>
+          <p>
             The first airline was the German airship company DELAG, founded on
             November 16, 1909. The four oldest non-airship airlines that still
             exist are the Netherlands' KLM (1919), Colombia's Avianca (1919),
@@ -1068,7 +1068,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
             be offered for sale (1914). The number indicated that it was the
             forty-third aircraft to be built from initiation of the Benoist
             Aeroplane Company.
-          </h2>
+          </p>
         </div>
       </div>
       <hr></hr>
@@ -1077,7 +1077,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
         <h1>
           <mark>Controls and instruments</mark>
         </h1>
-        <h2>
+        <p>
           Main article: Aircraft flight control system A light aircraft (Robin
           DR400/500) cockpit Further information: Fixed-wing aircraft § Aircraft
           controls, and Fixed-wing aircraft § Cockpit instrumentation Airplanes
@@ -1087,7 +1087,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           instruments provide information to the pilots, including flight data,
           engine output, navigation, communications and other aircraft systems
           that may be installed.
-        </h2>
+        </p>
         <img src="./plane/control.jpg" width="1000px" height="400px"></img>
       </div>
       <hr></hr>
@@ -1096,7 +1096,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
         <h1>
           <mark>Safety</mark>
         </h1>
-        <h2>
+        <p>
           When risk is measured by deaths per passenger kilometer, air travel is
           approximately 10 times safer than travel by bus or rail. However, when
           using the deaths per journey statistic, air travel is significantly
@@ -1106,15 +1106,15 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           between the safety of airliners and that of smaller private planes,
           with the per-mile statistic indicating that airliners are 8.3 times
           safer than smaller planes.[59]
-        </h2>
+        </p>
         <img src="./plane/safe.jpg" width="600px" height="400px"></img>
         <img src="./plane/safe2.jpg" width="800px" height="400px"></img>
       </div>
       <div>
-        <h1>
+        <p>
           <mark>Environmental impact</mark>
-        </h1>
-        <h2>
+        </p>
+        <p>
           Like all activities involving combustion, fossil-fuel-powered aircraft
           release soot and other pollutants into the atmosphere. Greenhouse
           gases such as carbon dioxide (CO2) are also produced. In addition,
@@ -1133,14 +1133,14 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           Some non-polluting light electric aircraft are already in production.
           Another environmental impact of airplanes is noise pollution, mainly
           caused by aircraft taking off and landing.
-        </h2>
+        </p>
         <img src="./plane/effect.jpg" width="1500px" height="700px"></img>
       </div>
       <hr></hr>
       <hr></hr>
       <div>
         <h1>Nowadays</h1>
-        <h2>
+        <p>
           There is an average of 9,728 planes carrying 1,270,406 passengers in
           the sky at any given time. Chances are that you have looked up in the
           sky and wondered how many planes are in the air. Well, there is an
@@ -1150,7 +1150,7 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
           used one with plenty of life in it for much lesser. Now to the
           interesting parts, airlines world over seldom buy more than a token
           number of planes
-        </h2>
+        </p>
         <img src="./plane/gallery.jpg" width="500px" height="400px"></img>
         <img src="./plane/gallery 2.jpg" width="500px" height="400px"></img>
         <img src="./plane/gallery3.jpg" width="600px" height="400px"></img>
