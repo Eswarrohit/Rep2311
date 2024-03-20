@@ -147,7 +147,240 @@ The earliest historical evidence of boats is found in Egypt during the 4th mille
     <ul>Italian full-rigged ship Amerigo Vespucci in New York Harbor</ul>
   </div>
   
+
+
+
+
+
+
+
+ <h1 style={{ fontSize: "2.5rem" }}>Air Transport</h1>
+      <h2>
+        Air transport is one of the fastest modes of public transport which
+        connects international boundaries. Air transport allows people from
+        different countries to cross international boundaries and travel other
+        countries for personal, business, medical, and tourism purposes.
+      </h2>
+      <div>
+        <hr></hr>
+        <h2>
+          <mark>History of flight : </mark> development of heavier-than-air
+          flying machines. Important landmarks and events along the way to the
+          invention of the airplane include an understanding of the dynamic
+          reaction of lifting surfaces (or wings), building absolutely reliable
+          engines that produced sufficient power to propel an airframe, and
+          solving the problem of flight control in three dimensions. Once the
+          Wright brothers demonstrated that the basic technical problems had
+          been overcome at the start of the 20th century, military and civil
+          aviation developed quickly
+        </h2>
+        <img src="./plane/wright-brothers.jpg"></img>
+        <img src="./plane/plane.jpg"></img>
+      </div>
+
+      <h2>
+        <mark>Orville and Wilbur Wright</mark> were the inventors of the first
+        airplane. On December 17, 1903, the Wright brothers launched the era of
+        human flight when they successfully tested a flying vehicle that took
+        off by its own power, flew naturally at even speeds, and descended
+        without damage
+      </h2>
+      <div>
+        <hr></hr>
+        <hr></hr>
+        <h1>
+          <mark>Invention of Aerolplane </mark>
+        </h1>
+        <div id="container">
+          <h2>
+            On the evening of Sept. 18, 1901, Wilbur Wright, a 33-year-old
+            businessman from Dayton, Ohio, addressed a distinguished group of
+            Chicago engineers on the subject of “Some Aeronautical Experiments”
+            that he had conducted with his brother Orville Wright over the
+            previous two years. “The difficulties which obstruct the pathway to
+            success in flying machine construction,” he noted, “are of three
+            general classes.” The 1909 Wright Military Flyer is the world's
+            first military airplane. In 1908, the U.S. Army Signal Corps sought
+            competitive bids for a two-seat observation aircraft. On June 3,
+            1909, the Wrights returned to Fort Myer with a new airplane to
+            complete the trials begun in 1908, that were cut short by a crash.
+            Satisfying all requirements, the Army purchased the airplane for
+            $30,000, and conducted flight training with it at nearby College
+            Park, Maryland, and at Fort Sam Houston, in San Antonio, Texas, in
+            1910. It was donated to the Smithsonian in 1911.The Roar of the
+            Crowd The Wright brothers made their first public flights in Europe
+            and America in 1908, bringing their invention to the masses.
+            Airplane companies soon began to field teams to demonstrate the
+            flying machines they produced. The daring aviators who participated
+            in exhibitions and air meets became huge celebrities. They created
+            the first great public enthusiasm for the airplane as a symbol of
+            human achievement as the airplane took its first steps toward
+            becoming a world changing technology.
+          </h2>
+        </div>
+        <div id="pic">
+          <img src="./plane/mapp.gif"></img>
+        </div>
+        <hr></hr>
+        <hr></hr>
+
+        <mark>
+          <h1>
+            <mark>Other aviation pioneers</mark>
+          </h1>
+        </mark>
+        <div id="container1">
+          <h2>
+            The work of the Wright brothers inspired an entire generation of
+            flying-machine experimenters in Europe and the Americas. The
+            Brazilian experimenter Alberto Santos-Dumont, for instance, made the
+            first public flight in Europe in 1906 in his 14-bis. Frenchman Henri
+            Farman made his first flight the following year in the Farman III, a
+            machine built by Gabriel Voisin. Farman also completed the first
+            European circular flight of at least 1 km (0.62 mile) early in 1908.
+            On July 4, 1908, the American Glenn Hammond Curtiss, a leading
+            member of the Aerial Experiment Association (AEA), organized by
+            Alexander Graham Bell, won the Scientific American Trophy for a
+            flight of 1 km in the AEA June Bug. The Santos-Dumont, Voisin, and
+            Curtiss machines were all canard (elevator on the nose) biplanes
+            with pusher propellers that were clearly inspired by what the
+            designers knew of the work of the Wright brothers.Aviation pioneers
+            are people directly and indirectly responsible for the advancement
+            of flight, including people who worked to achieve manned flight
+            before the invention of aircraft, as well as others who achieved
+            significant "firsts" in aviation after heavier-than-air flight
+            became routine. Pioneers of aviation have contributed to the
+            development of aeronautics in one or more ways: through science and
+            theory, theoretical or applied design, by constructing models or
+            experimental prototype
+          </h2>
+        </div>
+        <div id="pic1">
+          <img src="./plane/aviaa.jpg" height="450px" width="600px"></img>
+        </div>
+      </div>
+      <hr></hr>
+      <hr></hr>
+      <div>
+        <h1>
+          <mark>The first airlines</mark>
+        </h1>
+        <div id="pic2">
+          <img src="./plane/airline.jpg" width="500px" height="400px"></img>
+        </div>
+        <div id="container2">
+          <h2>
+            The first airline was the German airship company DELAG, founded on
+            November 16, 1909. The four oldest non-airship airlines that still
+            exist are the Netherlands' KLM (1919), Colombia's Avianca (1919),
+            Australia's Qantas (1920) and the Russian Aeroflot (1923).The
+            world’s first regularly scheduled heavier-than-air airline took off
+            from the Municipal Pier in St. Petersburg on New Year’s Day 1914.
+            The airline was known as the St. Petersburg–Tampa Airboat Line. It
+            was organized just a few months before that New Year’s first
+            takeoff. The airline was the brainchild of Percival E. Fansler, a
+            Jacksonville-based electrical engineer. Fansler enlisted the support
+            of Thomas Benoist (pronounced ben-wah), an early airplane
+            manufacturer who provided the planes-or, more precisely, the
+            airboats. The airboat was known as Benoist Airboat Model XIV, no.
+            43. The model number referred to the year in which the plane was to
+            be offered for sale (1914). The number indicated that it was the
+            forty-third aircraft to be built from initiation of the Benoist
+            Aeroplane Company.
+          </h2>
+        </div>
+      </div>
+      <hr></hr>
+      <hr></hr>
+      <div>
+        <h1>
+          <mark>Controls and instruments</mark>
+        </h1>
+        <h2>
+          Main article: Aircraft flight control system A light aircraft (Robin
+          DR400/500) cockpit Further information: Fixed-wing aircraft § Aircraft
+          controls, and Fixed-wing aircraft § Cockpit instrumentation Airplanes
+          have complex flight control systems. The main controls allow the pilot
+          to direct the aircraft in the air by controlling the attitude (roll,
+          pitch and yaw) and engine thrust. On manned aircraft, cockpit
+          instruments provide information to the pilots, including flight data,
+          engine output, navigation, communications and other aircraft systems
+          that may be installed.
+        </h2>
+        <img src="./plane/control.jpg" width="1000px" height="400px"></img>
+      </div>
+      <hr></hr>
+      <hr></hr>
+      <div>
+        <h1>
+          <mark>Safety</mark>
+        </h1>
+        <h2>
+          When risk is measured by deaths per passenger kilometer, air travel is
+          approximately 10 times safer than travel by bus or rail. However, when
+          using the deaths per journey statistic, air travel is significantly
+          more dangerous than car, rail, or bus travel.[57] Air travel insurance
+          is relatively expensive for this reason—insurers generally use the
+          deaths per journey statistic.[58] There is a significant difference
+          between the safety of airliners and that of smaller private planes,
+          with the per-mile statistic indicating that airliners are 8.3 times
+          safer than smaller planes.[59]
+        </h2>
+        <img src="./plane/safe.jpg" width="600px" height="400px"></img>
+        <img src="./plane/safe2.jpg" width="800px" height="400px"></img>
+      </div>
+      <div>
+        <h1>
+          <mark>Environmental impact</mark>
+        </h1>
+        <h2>
+          Like all activities involving combustion, fossil-fuel-powered aircraft
+          release soot and other pollutants into the atmosphere. Greenhouse
+          gases such as carbon dioxide (CO2) are also produced. In addition,
+          there are environmental impacts specific to airplanes: for instance,
+          Airplanes operating at high altitudes near the tropopause (mainly
+          large jet airliners) emit aerosols and leave contrails, both of which
+          can increase cirrus cloud formation – cloud cover may have increased
+          by up to 0.2% since the birth of aviation.[60] Airplanes operating at
+          high altitudes near the tropopause can also release chemicals that
+          interact with greenhouse gases at those altitudes, particularly
+          nitrogen compounds, which interact with ozone, increasing ozone
+          concentrations.[61][62] Most light piston aircraft burn avgas, which
+          contains tetraethyllead (TEL). Some lower-compression piston engines
+          can operate on unleaded mogas and turbine engines and diesel engines –
+          neither of which require lead – are used on some newer light aircraft.
+          Some non-polluting light electric aircraft are already in production.
+          Another environmental impact of airplanes is noise pollution, mainly
+          caused by aircraft taking off and landing.
+        </h2>
+        <img src="./plane/effect.jpg" width="1500px" height="700px"></img>
+      </div>
+      <hr></hr>
+      <hr></hr>
+      <div>
+        <h1>Nowadays</h1>
+        <h2>
+          There is an average of 9,728 planes carrying 1,270,406 passengers in
+          the sky at any given time. Chances are that you have looked up in the
+          sky and wondered how many planes are in the air. Well, there is an
+          average of 9,728 planes carrying 1,270,406 passengers in the sky at
+          any given time. o, a passenger plane doesn't cost 2000 Crore rupees, a
+          brand new A321 neo will cost in the ballpark of 8–9 hundred crores. A
+          used one with plenty of life in it for much lesser. Now to the
+          interesting parts, airlines world over seldom buy more than a token
+          number of planes
+        </h2>
+        <img src="./plane/gallery.jpg" width="500px" height="400px"></img>
+        <img src="./plane/gallery 2.jpg" width="500px" height="400px"></img>
+        <img src="./plane/gallery3.jpg" width="600px" height="400px"></img>
+        <hr></hr>
+        <img src="./plane/gallery4.jpg" width="400px" height="400px"></img>
+        <img src="./plane/aero.jpeg" width="600px" height="400px"></img>
+        <img src="./plane/aero2.jpg" width="600px" height="400px"></img>
+      </div>
     </div>
+
+    
   );
 }
 
