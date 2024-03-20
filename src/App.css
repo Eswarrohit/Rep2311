@@ -92,3 +92,54 @@ body {
 h2 {
   padding: 15px;
 }
+
+
+.App {
+  text-align: center;
+}
+
+.mainimg{
+  width: 500px;
+}
+h1::first-letter{
+  font-size: 6rem;
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.cycle1{
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px;
+}
+img{
+  width: 300px;
+  object-fit: fill;
+  border: 2px solid black;
+}
+p{
+  margin: 10px;
+  text-align: justify;
+}
+h2{
+  text-align: left;
+  font-size: 3rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+.partsimg{
+  width: 800px;
+  border: 2px solid black;
+}
+.partsDiv{
+  display: inline-block;
+ overflow: auto;
+ width: 80%;
+ height: 200px;
+}
+h3{
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#racingdiv{
+  height: 350px;
+}

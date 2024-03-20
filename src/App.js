@@ -4,7 +4,258 @@ function App() {
    <div className="App">
        <h1>Ship</h1>
     <hr></hr>
-<div className='divp'>    
+
+
+
+
+
+<h1>Bicycle</h1>
+      <img className="mainimg" src="./Cycle/ram.png"></img>
+      <p>
+        <strong>
+        
+          A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a
+          human-powered or motor-assisted, pedal-driven, single-track vehicle,
+          with two wheels attached to a frame, one behind the other. A bicycle
+          rider is called a cyclist, or bicyclist. Bicycles were introduced in
+          the 19th century in Europe. By the early 21st century there were more
+          than 1 billion bicycles.[1][2][3] There are many more bicycles than
+          cars.[4][5][6] Bicycles are the principal means of transport in many
+          regions. They also provide a popular form of recreation, and have been
+          adapted for use as children's toys. Bicycles are used for fitness,
+          military and police applications, courier services, bicycle racing,
+          and artistic cycling.
+        </strong>
+      </p>
+      <hr></hr>
+      <h2>
+        <ins><mark>History</mark></ins>
+      </h2>
+      <div className="cycle1">
+        <img src="./Cycle/england.jpg"></img>
+        <p> England at the start of the 20th century</p>
+      </div>
+      <div className="cycle1">
+        <img src="./Cycle/cycle2.jpg"></img>
+        <p>Michaux's son on a velocipede 1868</p>
+      </div>
+
+      <div className="cycle1">
+        <img src="./Cycle/cycle4.png"></img>
+        <p> The London Hansom Cycle</p>
+      </div>
+      <p>
+        <strong>
+          The "dandy horse",[19] also called Draisienne or Laufmaschine
+          ("running machine"), was the first human means of transport to use
+          only two wheels in tandem and was invented by the German Baron Karl
+          von Drais. It is regarded as the first bicycle and von Drais is seen
+          as the "father of the bicycle",[20][21][22][23] but it did not have
+          pedals.[24][25][26][27] Von Drais introduced it to the public in
+          Mannheim in 1817 and in Paris in 1818.[28][29] Its rider sat astride a
+          wooden frame supported by two in-line wheels and pushed the vehicle
+          along with his or her feet while steering the front wheel.
+        </strong>
+      </p>
+      <hr></hr>
+
+      <h2>
+        <ins><mark>Parts</mark></ins>
+      </h2>
+      <div>
+        <img className="partsimg" src="./Cycle/parts.png"></img>
+      </div>
+      <div className="cycle1">
+        <img src="./Cycle/part1.jpg"></img>
+        <p>shaft drive instead of a chain</p>
+      </div>
+      <div className="cycle1">
+        <img src="./Cycle/part2.jpg"></img>
+        <p>
+          A set of rear sprockets 
+        </p>
+      </div>
+
+      <div className="cycle1">
+        <img src="./Cycle/part3.jpg"></img>
+        <p>Hub gear</p>
+      </div>
+      <h3>Seat</h3>
+      <img src="./Cycle/seat.jpg"></img>
+
+      <div className="partsDiv">
+        <p>
+          Saddles also vary with rider preference, from the cushioned ones
+          favored by short-distance riders to narrower saddles which allow more
+          room for leg swings. Comfort depends on riding position. With comfort
+          bikes and hybrids, cyclists sit high over the seat, their weight
+          directed down onto the saddle, such that a wider and more cushioned
+          saddle is preferable. For racing bikes where the rider is bent over,
+          weight is more evenly distributed between the handlebars and saddle,
+          the hips are flexed, and a narrower and harder saddle is more
+          efficient. Differing saddle designs exist for male and female
+          cyclists, accommodating the genders' differing anatomies and sit bone
+          width measurements, although bikes typically are sold with saddles
+          most appropriate for men. Suspension seat posts and seat springs
+          provide comfort by absorbing shock but can add to the overall weight
+          of the bicycle. A recumbent bicycle has a reclined chair-like seat
+          that some riders find more comfortable than a saddle, especially
+          riders who suffer from certain types of seat, back, neck, shoulder, or
+          wrist pain. Recumbent bicycles may have either under-seat or over-seat
+          steeringSaddles also vary with rider preference, from the cushioned
+          ones favored by short-distance riders to narrower saddles which allow
+          more room for leg swings. Comfort depends on riding position. With
+          comfort bikes and hybrids, cyclists sit high over the seat, their
+          weight directed down onto the saddle, such that a wider and more
+          cushioned saddle is preferable. For racing bikes where the rider is
+          bent over, weight is more evenly distributed between the handlebars
+          and saddle, the hips are flexed, and a narrower and harder saddle is
+          more efficient. Differing saddle designs exist for male and female
+          cyclists, accommodating the genders' differing anatomies and sit bone
+          width measurements, although bikes typically are sold with saddles
+          most appropriate for men.
+        </p>
+      </div>
+      <h3>Brakes</h3>
+      <div className="partsDiv">
+        <p>
+          Bicycle brakes may be rim brakes, in which friction pads are
+          compressed against the wheel rims; hub brakes, where the mechanism is
+          contained within the wheel hub, or disc brakes, where pads act on a
+          rotor attached to the hub. Most road bicycles use rim brakes, but some
+          use disk brakes.[64] Disc brakes are more common for mountain bikes,
+          tandems and recumbent bicycles than on other types of bicycles, due to
+          their increased power, coupled with an increased weight and
+          complexity.With hand-operated brakes, force is applied to brake levers
+          mounted on the handlebars and transmitted via Bowden cables or
+          hydraulic lines to the friction pads, which apply pressure to the
+          braking surface, causing friction which slows the bicycle down. A rear
+          hub brake may be either hand-operated or pedal-actuated, as in the
+          back pedal coaster brakes which were popular in North America until
+          the 1960s. Track bicycles do not have brakes, because all riders ride
+          in the same direction around a track which does not necessitate sharp
+          deceleration. Track riders are still able to slow down because all
+          track bicycles are fixed-gear, meaning that there is no freewheel.
+          Without a freewheel, coasting is impossible, so when the rear wheel is
+          moving, the cranks are moving. To slow down, the rider applies
+          resistance to the pedals, acting as a braking system which can be as
+          effective as a conventional rear wheel brake, but not as effective as
+          a front wheel brake.[66]
+        </p>
+      </div>
+      <img src="./Cycle/brakes.jpg"></img>
+      <h2>
+        <ins><mark>In Daily Life</mark></ins>
+      </h2>
+      <h3>Poverty alleviation</h3>
+      <img src="./Cycle/poverty.jpg"></img>
+      <div className="partsDiv">
+        <p>
+          Bicycle poverty reduction is the concept that access to bicycles and
+          the transportation infrastructure to support them can dramatically
+          reduce poverty.This has been demonstrated in various pilot projects in
+          South Asia and Africa. Experiments done in Africa (Uganda and
+          Tanzania) and Sri Lanka on hundreds of households have shown that a
+          bicycle can increase the income of a poor family by as much as 35%.
+          Transport, if analyzed for the cost–benefit analysis for rural poverty
+          alleviation, has given one of the best returns in this regard. For
+          example, road investments in India were a staggering 3–10 times more
+          effective than almost all other investments and subsidies in rural
+          economy in the decade of the 1990s. A road can ease transport on a
+          macro level, while bicycle access supports it at the micro level. In
+          that sense, the bicycle can be one of the most effective means to
+          eradicate poverty in poor nations.Transport, if analyzed for the
+          cost–benefit analysis for rural poverty alleviation, has given one of
+          the best returns in this regard. For example, road investments in
+          India were a staggering 3–10 times more effective than almost all
+          other investments and subsidies in rural economy in the decade of the
+          1990s. A road can ease transport on a macro level, while bicycle
+          access supports
+        </p>
+      </div>
+
+      <div className="partsDiv">
+        <p>
+          Bicycle poverty reduction is the concept that access to bicycles and
+          the transportation infrastructure to support them can dramatically
+          reduce poverty.This has been demonstrated in various pilot projects in
+          South Asia and Africa. Experiments done in Africa (Uganda and
+          Tanzania) and Sri Lanka on hundreds of households have shown that a
+          bicycle can increase the income of a poor family by as much as 35%.
+          Transport, if analyzed for the cost–benefit analysis for rural poverty
+          alleviation, has given one of the best returns in this regard. For
+          example, road investments in India were a staggering 3–10 times more
+          effective than almost all other investments and subsidies in rural
+          economy in the decade of the 1990s. A road can ease transport on a
+          macro level, while bicycle access supports it at the micro level. In
+          that sense, the bicycle can be one of the most effective means to
+          eradicate poverty in poor nations.Transport, if analyzed for the
+          cost–benefit analysis for rural poverty alleviation, has given one of
+          the best returns in this regard. For example, road investments in
+          India were a staggering 3–10 times more effective than almost all
+          other investments and subsidies in rural economy in the decade of the
+          1990s. A road can ease transport on a macro level, while bicycle
+          access supports
+        </p>
+      </div>
+      <img src="./Cycle/farmer.jpg"></img>
+
+<h3>Road Bicycle Racing</h3>
+      <img src="./Cycle/racing.jpg"></img>
+      <div className="partsDiv" id="racingdiv">
+        <p>Road bicycle racing is the cycle sport discipline of road cycling, held primarily on paved roads. Road racing is the most popular professional form of bicycle racing, in terms of numbers of competitors, events and spectators. The two most common competition formats are mass start events, where riders start simultaneously (though sometimes with a handicap) and race to a set finish point; and time trials, where individual riders or teams race a course alone against the clock. Stage races or "tours" take multiple days, and consist of several mass-start or time-trial stages ridden consecutively.
+
+Professional racing originated in Western Europe, centred in France, Spain, Italy and the Low Countries. Since the mid-1980s, the sport has diversified, with races held at the professional, semi-professional and amateur levels, worldwide. The sport is governed by the Union Cycliste Internationale (UCI). As well as the UCI's annual World Championships for men and women, the biggest event is the Tour de France, a three-week race that can attract over 500,000 roadside supporters a day.   Stage races consist of several races, or stages, ridden consecutively. The competitor with the lowest cumulative time to complete all stages is declared the overall, or general classification (GC), winner. Stage races may also have other classifications and awards, such as individual stage winners, the points classification winner, and the "King of the Mountains" (or mountains classification) winner. A stage race can also be a series of road races and individual time trials (some events include team time trials). The stage winner is the first person to cross the finish line that day or the time trial rider (or team) with the lowest time on the course. The overall winner of a stage race is the rider who takes the lowest aggregate time to complete all stages (accordingly, a rider does not have to win all or any of the individual stages to win overall). Three-week stage races are called Grand Tours. The professional road bicycle racing calendar includes three Grand Tours - the Giro d'Italia, the Tour de France, and the Vuelta a Espana.Ultra-distance cycling races are very long single stage events where the race clock continuously runs from start to finish. Their sanctioning bodies are usually independent of the UCI. They usually last several days and the riders take breaks on their own schedules, with the winner being the first one to cross the finish line. Among the best-known ultramarathons is the Race Across America (RAAM), a coast-to-coast non-stop, single-stage race in which riders cover approximately 3,000 miles (4,800 km) in about a week. The race is sanctioned by the UltraMarathon Cycling Association (UMCA). RAAM and similar events allow (and often require) racers to be supported by a team of staff; there are also ultra-distance bicycle races that prohibit all external support, such as the Transcontinental Race and the Indian Pacific Wheel Race.</p>
+      </div>
+      <hr></hr>
+
+
+
+
+
+
+      <div>
+        <h2><mark><ins>Gallery</ins></mark></h2>
+        <div className="cycle1">
+          <img  src="./Cycle/gallery1.jpg"></img>
+          <p>Kids Bicycle</p>
+          </div>
+
+          <div className="cycle1">
+          <img  src="./Cycle/gallery2.jpg"></img>
+          <p>Lady Bird</p>
+          </div>
+          <div className="cycle1">
+          <img  src="./Cycle/gallery3.jpg"></img>
+          <p>18th century using this Bicycle</p>
+          </div>
+          <div className="cycle1"  >
+          <img src="./Cycle/gallery4.jpg"></img>
+          <p>Racing Bicycle</p>
+          </div>
+          <div className="cycle1" >
+          <img src="./Cycle/gallery7.webp"></img>
+          <p>College Students in village</p>
+          </div>
+          <div className="cycle1" >
+          <img src="./Cycle/gallery8.webp"></img>
+          <p>3 Seater Bicycle</p>
+          </div>
+          <div className="cycle1" >
+          <img src="./Cycle/gallery5.jpg"></img>
+          <p>Farming Bicycle</p>
+          </div>
+          <div className="cycle1" >
+          <img src="./Cycle/gallery6.webp"></img>
+          <p>College Students</p>
+          </div>
+          
+  
+     
+    
+
+
+
  <p>A ship is a large vessel that travels the world's oceans and other navigable waterways, carrying cargo or passengers, or in support of specialized missions, such as defense, research and fishing. Ships are generally distinguished from boats, based on size, shape, load capacity and purpose. Ships have supported exploration, trade, warfare, migration, colonization, and science. Ship transport is responsible for the largest portion of world commerce.The word ship has meant, depending on the era and the context, either just a large vessel or specifically a ship-rigged sailing ship with three or more masts, each of which is square-rigged.As of 2016, there were more than 49,000 merchant ships, totaling almost 1.8 billion deadweight tons. Of these 28% were oil tankers, 43% were bulk carriers, and 13% were container ships.
 The earliest historical evidence of boats is found in Egypt during the 4th millennium BCE.
 </p></div>
