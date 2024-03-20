@@ -1,0 +1,17 @@
+.App{
+  text-align: center;
+  background-color: rgb(49, 49, 49)
+}
+h1,h2{
+  color: rgb(226, 234, 241);
+}
+.appp{
+  background-color: rgb(13, 12, 29);
+}
+#head1{
+  color: aqua;
+  font-size: 2rem;
+}
+p{
+  color: antiquewhite;
+}
