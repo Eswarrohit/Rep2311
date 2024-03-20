@@ -252,6 +252,536 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
           
   
      
+
+
+
+
+          <h1>Motorcycle</h1>
+      <div>
+        <h2>Article</h2>
+
+        <p className="article">
+          A motorcycle (motorbike, bike, or, if three-wheeled, a trike) is a two
+          or three-wheeled motor vehicle steered by a handlebar from a
+          saddle-style seat.<br></br>
+          <br></br>
+          Motorcycle design varies greatly to suit a range of different
+          purposes: long-distance travel, commuting, cruising, sport (including
+          racing), and off-road riding. Motorcycling is riding a motorcycle and
+          being involved in other related social activities such as joining a
+          motorcycle club and attending motorcycle rallies.<br></br>
+          <br></br> The 1885 Daimler Reitwagen made by Gottlieb Daimler and
+          Wilhelm Maybach in Germany was the first internal combustion,
+          petroleum-fueled motorcycle. In 1894, Hildebrand & Wolfmüller became
+          the first series production motorcycle.<br></br>
+          <br></br>[4][5] Globally, motorcycles are comparably popular to cars
+          as a method of transport. In 2021, approximately 58.6 million new
+          motorcycles were sold around the world,[6] fewer than the 66.7 million
+          cars sold over the same period.<br></br>
+          <br></br> In 2022, the top four motorcycle producers by volume and
+          type were Honda, Yamaha, Kawasaki, and Suzuki.[8] In developing
+          countries, motorcycles are considered utilitarian due to lower prices
+          and greater fuel economy. Of all the motorcycles in the world, 58% are
+          in the Asia-Pacific and Southern and Eastern Asia regions, excluding
+          car-centric Japan.<br></br>
+          <br></br> According to the US Department of Transportation, the number
+          of fatalities per vehicle mile traveled was 37 times higher for
+          motorcycles than for cars.[9]
+        </p>
+
+        <div className="articleimg">
+          <img
+            width="100%"
+            height="180px"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Norton_Motorcycle.jpg/450px-Norton_Motorcycle.jpg"
+          ></img>
+          <br></br>A classic Norton motorcycle<hr></hr>
+          <img
+            width="100%"
+            height="200px"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lambretta_125_D_1952_a.jpg/300px-Lambretta_125_D_1952_a.jpg"
+          ></img>
+          <br></br>
+          1952 Lambretta 125 D scooter
+        </div>
+      </div>
+
+      <div>
+        <h2>Main article: Types of motorcycles</h2>
+        <p style={{textAlign:"justify"}}>
+          The term motorcycle has different legal definitions depending on
+          jurisdiction (see § Legal definitions and restrictions). There are
+          three major types of motorcycle: street, off-road, and dual purpose.
+          Within these types, there are many sub-types of motorcycles for
+          different purposes. There is often a racing counterpart to each type,
+          such as road racing and street bikes, or motocross including dirt
+          bikes. Street bikes include cruisers, sportbikes, scooters and mopeds,
+          and many other types. Off-road motorcycles include many types designed
+          for dirt-oriented racing classes such as motocross and are not street
+          legal in most areas. Dual purpose machines like the dual-sport style
+          are made to go off-road but include features to make them legal and
+          comfortable on the street as well. Each configuration offers either
+          specialised advantage or broad capability, and each design creates a
+          different riding posture. In some countries the use of pillions (rear
+          seats) is restricted.
+        </p>
+        <div className="flex">
+          <div className="typesimage">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2009-02-14_Kawasaki_Vulcan_900_Custom_and_Yamaha_FZ6.jpg/507px-2009-02-14_Kawasaki_Vulcan_900_Custom_and_Yamaha_FZ6.jpg"
+              width="300px"
+              height="200px"
+            ></img>
+
+            <p>A cruiser (front) and a sportbike (background)</p>
+          </div>
+          <div className="typesimage">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/URAL650-SPORTSMAN.jpg/451px-URAL650-SPORTSMAN.jpg"
+              width="300px"
+              height="200px"
+            ></img>
+
+            <p>A Ural motorcycle with a sidecar</p>
+          </div>
+          <div className="typesimage">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gendarmerie_motor_officer_raising_arm_in_traffic.jpg/507px-Gendarmerie_motor_officer_raising_arm_in_traffic.jpg"
+              width="300px"
+              height="200px"
+            ></img>
+
+            <p>French gendarme motorcyclist</p>
+          </div>
+          <div className="typesimage">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Japan_Police_rider.jpg/451px-Japan_Police_rider.jpg"
+              width="300px"
+              height="200px"
+            ></img>
+
+            <p>Police motorcycle</p>
+          </div>{" "}
+        </div>
+      </div>
+     
+
+      <h2 className="text ">History</h2>
+
+      <div className="motorcycle-container">
+        <div className="history">
+          <h3>Experimentation and invention</h3>
+          <p>
+            The first internal combustion, petroleum-fueled motorcycle was the
+            Daimler Reitwagen. It was designed and built by the German inventors
+            Gottlieb Daimler and Wilhelm Maybach in Bad Cannstatt, Germany, in
+            1885. This vehicle was unlike either the safety bicycles or the
+            boneshaker bicycles of the era in that it had zero degrees of
+            steering axis angle and no fork offset, and thus did not use the
+            principles of bicycle and motorcycle dynamics developed nearly 70
+            years earlier. Instead, it relied on two outrigger wheels to remain
+            upright while turning. The inventors called their invention the
+            Reitwagen ("riding car"). It was designed as an expedient testbed
+            for their new engine, rather than a true prototype vehicle.
+          </p>
+          <p>
+            The first commercial design for a self-propelled cycle was a
+            three-wheel design called the Butler Petrol Cycle, conceived by
+            Edward Butler in England in 1884. He exhibited his plans for the
+            vehicle at the Stanley Cycle Show in London in 1884. The vehicle was
+            built by the Merryweather Fire Engine company in Greenwich, in 1888.
+            The Butler Petrol Cycle was a three-wheeled vehicle, with the rear
+            wheel directly driven by a 5⁄8 hp (0.47 kW), 40 cc (2.4 cu in)
+            displacement, 2+1⁄4 in × 5 in (57 mm × 127 mm) bore × stroke, flat
+            twin four-stroke engine (with magneto ignition replaced by coil and
+            battery) equipped with rotary valves and a float-fed carburettor
+            (five years before Maybach) and Ackermann steering, all of which
+            were state of the art at the time. Starting was by compressed air.
+            The engine was liquid-cooled, with a radiator over the rear driving
+            wheel. Speed was controlled by means of a throttle valve lever. No
+            braking system was fitted; the vehicle was stopped by raising and
+            lowering the rear driving wheel using a foot-operated lever; the
+            weight of the machine was then borne by two small castor wheels. The
+            driver was seated between the front wheels. It was not, however, a
+            success, as Butler failed to find sufficient financial backing.
+          </p>
+          <p>
+            Many authorities have excluded steam-powered, electric motorcycles,
+            or diesel-powered two-wheelers from the definition of a
+            'motorcycle', and credit the Daimler Reitwagen as the world's first
+            motorcycle. Given the rapid rise in use of electric motorcycles
+            worldwide, defining only internal-combustion powered two-wheelers as
+            'motorcycles' is increasingly problematic. The first (petroleum
+            fueled) internal-combustion motorcycles, like the German Reitwagen,
+            were, however, also the first practical motorcycles. If a
+            two-wheeled vehicle with steam propulsion is considered a
+            motorcycle, then the first motorcycles built seem to be the French
+            Michaux-Perreaux steam velocipede which patent application was filed
+            in December 1868, constructed around the same time as the American
+            Roper steam velocipede, built by Sylvester H. Roper of Roxbury,
+            Massachusetts, who had been demonstrating his machine at fairs and
+            circuses in the eastern U.S. since 1867. Roper built about 10 steam
+            cars and cycles from the 1860s until his death in 1896.
+          </p>
+        </div>
+        <div className="images">
+          <div className="replica">
+            <img width="100%" 
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Daimler-1-motorcycle-1.jpg/330px-Daimler-1-motorcycle-1.jpg"
+              alt="Replica of the Daimler-Maybach Reitwagen"
+            />
+            Replica of the Daimler-Maybach Reitwagen
+          </div>
+          <div className="replica">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Butler%27s_Patent_Velocycle.jpg/330px-Butler%27s_Patent_Velocycle.jpg"
+              alt="Butler's Patent Velocycle"
+            />
+            Butler's Patent Velocycle
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3>Summary of early inventions</h3>
+        <table>
+          <thead>
+            <th>Year</th>
+            <th>Vehicle</th>
+            <th>Number of wheels</th>
+            <th>Inventor</th>
+            <th>Engine type</th>
+            <th>Notes</th>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>1867–1868</td>
+              <td>Michaux-Perreaux steam velocipede</td>
+              <td>2</td>
+              <td>Pierre Michaux Louis-Guillaume Perreaux</td>
+              <td>Steam</td>
+              <td> .One made</td>
+            </tr>
+
+            <tr>
+              <td>1867-1868</td>
+              <td>Roper steam velocipede</td>
+              <td>2</td>
+              <td>Sylvester Roper</td>
+              <td>Steam</td>
+              <td> .One made</td>
+            </tr>
+            <tr>
+              <td>1885</td>
+              <td>Daimler Reitwagen</td>
+              <td>2(plus 2 outriggers)</td>
+              <td>Gottlieb Daimler Wilhelm Maybach</td>
+              <td>Petroleum internal-combustion</td>
+              <td> .One made</td>
+            </tr>
+            <tr>
+              <td>1887</td>
+              <td>Butler Petrol Cycle</td>
+              <td>3 (plus 2 castors)</td>
+              <td>Edward Butler</td>
+              <td>Petroleum internal-combustion</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>1894</td>
+              <td>Hildebrand & Wolfmüller</td>
+              <td>2</td>
+              <td>Heinrich Hildebrand Wilhelm Hildebrand Alois Wolfmüller</td>
+              <td>Petroleum internal-combustion</td>
+              <td>
+                {" "}
+                .Modern configuration . First mass-produced motorcycle .First
+                machine to be called "motorcycle"
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+
+      <div className="container">
+
+        <h2>First motorcycle companies</h2>
+        
+        <div className="world">
+        <p>
+          In 1894, Hildebrand & Wolfmüller became the first series production
+          motorcycle, and the first to be called a motorcycle (German:
+          Motorrad).Excelsior Motor Company, originally a
+          bicycle manufacturing company based in Coventry, England, began
+          production of their first motorcycle model in 1896. The first
+          production motorcycle in the US was the Orient-Aster, built by Charles
+          Metz in 1898 at his factory in Waltham, Massachusetts. In the early
+          period of motorcycle history, many producers of bicycles adapted their
+          designs to accommodate the new internal combustion engine.<br></br><br></br> As the
+          engines became more powerful and designs outgrew the bicycle origins,
+          the number of motorcycle producers increased. Many of the
+          nineteenth-century inventors who worked on early motorcycles often
+          moved on to other inventions. Daimler and Roper, for example, both
+          went on to develop automobiles.At the end of the 19th century the
+          first major mass-production firms were set up. In 1898, Triumph
+          Motorcycles in England began producing motorbikes, and by 1903 it was
+          producing over 500 bikes. Other British firms were Royal Enfield,
+          Norton, Douglas Motorcycles and Birmingham Small Arms Company who
+          began motorbike production in 1899, 1902, 1907 and 1910,
+          respectively.[24] Indian began production in 1901 and Harley-Davidson
+          was established two years later. By the outbreak of World War I, the
+          largest motorcycle manufacturer in the world was Indian,[25][26]
+          producing over 20,000 bikes per year.[27]
+        </p>   
+           </div>
+
+
+
+
+        <div className="worldimg">
+        <img width="80%" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png/330px-1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png" alt=""></img>
+       <br></br> Diagram of 1894 Hildebrand & Wolfmüller
+
+        <img width="80%" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1902_Orient_motocycle.jpg/330px-1902_Orient_motocycle.jpg" alt=""></img>
+       <br></br> 1902 Orient motocycle
+
+
+        </div>
+
+
+      </div>
+
+
+      <div>
+        <h2>First World War</h2>
+        <div className="world">
+
+        <p>
+          During the First World War, motorbike production was greatly ramped up
+          for the war effort to supply effective communications with front line
+          troops. Messengers on horses were replaced with despatch riders on
+          motorcycles carrying messages, performing reconnaissance and acting as
+          a military police. American company Harley-Davidson was devoting over
+          50% of its factory output toward military contract by the end of the
+          war. The British company Triumph Motorcycles sold more than 30,000 of
+          its Triumph Type H model to allied forces during the war. With the
+          rear wheel driven by a belt, the Model H was fitted with a 499 cc
+          (30.5 cu in) air-cooled four-stroke single-cylinder engine. It was
+          also the first Triumph without pedals.[28][better source needed] The
+          Model H in particular, is regarded by many as having been the first
+          "modern motorcycle".[29] Introduced in 1915 it had a 550 cc side-valve
+          four-stroke engine with a three-speed gearbox and belt transmission.
+          It was so popular with its users that it was nicknamed the "Trusty
+          Triumph".[30]
+        </p></div>
+
+        <div className="worldimg">
+        <img width="70%" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Triumph_1922_H_1.jpg/330px-Triumph_1922_H_1.jpg"></img>
+        <br></br>
+        <p>
+          Triumph Motorcycles Model H, mass-produced for the war effort and
+          notable for its reliability
+        </p></div>
+      </div>
+
+
+
+      <div>
+        <h2>Postwar</h2>
+        
+      <div className="world">
+      <p>
+          By 1920, Harley-Davidson was the largest manufacturer, with their
+          motorcycles being sold by dealers in 67 countries. Amongst
+          many British motorcycle manufacturers, Chater-Lea with its
+          twin-cylinder models followed by its large singles in the 1920s stood
+          out. Initially, using converted a Woodmann-designed ohv Blackburne
+          engine it became the first 350 cc to exceed 100 mph (160 km/h),
+          recording 100.81 mph (162.24 km/h) over the flying kilometre during
+          April 1924.[7] Later, Chater-Lea set a world record for the flying
+          kilometre for 350 cc and 500 cc motorcycles at 102.9 mph (165.6 km/h)
+          for the firm. Chater-Lea produced variants of these world-beating
+          sports models and became popular among racers at the Isle of Man TT.
+          Today, the firm is probably best remembered for its long-term contract
+          to manufacture and supply AA Patrol motorcycles and sidecars.[citation
+          needed] By the late 1920s or early 1930s, DKW in Germany took over as
+          the largest manufacturer.
+        </p>
+      </div>
+
+      <div className="worldimg">
+        <img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Male_Motorcycle_rider_posing_with_a_Rudge_racing_bike%2C_No._45.jpg/330px-Male_Motorcycle_rider_posing_with_a_Rudge_racing_bike%2C_No._45.jpg"></img>
+        <br></br>
+        
+          Motorcycle rider on his Rudge-Whitworth motorbike, Australia, c. 1935
+        </div>
+
+
+        <div className="worldimg">
+        <img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ZweiRadMuseumNSU_NSU-SportMax_1955.JPG/330px-ZweiRadMuseumNSU_NSU-SportMax_1955.JPG"></img>
+        <br></br>
+        
+          NSU Sportmax streamlined motorcycle, 250 cc class winner of the 1955
+          Grand Prix season
+        </div>
+
+
+      <div className="world">
+      <p>
+          In the 1950s, streamlining began to play an increasing part in the
+          development of racing motorcycles and the "dustbin fairing" held out
+          the possibility of radical changes to motorcycle design. NSU and Moto
+          Guzzi were in the vanguard of this development, both producing very
+          radical designs well ahead of their time.[37] NSU produced the most
+          advanced design, but after the deaths of four NSU riders in the
+          1954–1956 seasons, they abandoned further development and quit Grand
+          Prix motorcycle racing.[38] Moto Guzzi produced competitive race
+          machines, and until the end of 1957 had a succession of victories.[39]
+          The following year, 1958, full enclosure fairings were banned from
+          racing by the FIM in the light of the safety concerns. From the 1960s
+          through the 1990s, small two-stroke motorcycles were popular
+          worldwide, partly as a result of East German MZs Walter Kaaden's
+          engine work in the 1950s.[40]
+        </p>
+      </div>
+      </div>
+
+
+
+
+
+
+
+
+
+      <div>
+        <h2>Today</h2>
+        <div className="world">
+        <p>
+          In the 21st century, the motorcycle industry is mainly dominated by
+          Indian and Japanese motorcycle companies. In addition to the large
+          capacity motorcycles, there is a large market in smaller capacity
+          (less than 300 cc) motorcycles, mostly concentrated in Asian and
+          African countries and produced in China and India.[citation needed] A
+          Japanese example is the 1958 Honda Super Cub, which went on to become
+          the biggest selling vehicle of all time, with its 60 millionth unit
+          produced in April 2008.[41] Today, this area is dominated by mostly
+          Indian companies with Hero MotoCorp emerging as the world's largest
+          manufacturer of two wheelers. Its Splendor model has sold more than
+          8.5 million to date.[42] Other major producers are Bajaj and TVS
+          Motors.
+        </p>
+        </div>
+
+        <div className="worldimg">
+        <img width="100%" height="180px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Royal_Enfield_Bullet%2C_Rewalsar_2010.jpg/330px-Royal_Enfield_Bullet%2C_Rewalsar_2010.jpg"></img>
+        <br></br>
+        Royal Enfield Bullet
+        </div>
+
+
+      </div>
+
+
+
+      <div>
+        <h2>Records</h2>
+        <p>
+          .The world record for the longest motorcycle jump was set in 2008 by
+          Robbie Maddison with 107 metres (351 ft).[54] .Since late 2010, the
+          Ack Attack team has held the motorcycle land-speed record at 376.36
+          mph (605.69 km/h).[55]
+        </p>
+      </div>
+
+
+      <div>
+        <h2>Safety</h2>
+        <div className="world">
+        <p>
+          Motorcycles have a higher rate of fatal accidents than automobiles or
+          trucks and buses. United States Department of Transportation data for
+          2005 from the Fatality Analysis Reporting System show that for
+          passenger cars, 18.62 fatal crashes occur per 100,000 registered
+          vehicles. For motorcycles this figure is higher at 75.19 per 100,000
+          registered vehicles – four times higher than for cars.[56] The same
+          data shows that 1.56 fatalities occur per 100 million vehicle miles
+          travelled for passenger cars, whereas for motorcycles the figure is
+          43.47 which is 28 times higher than for cars (37 times more deaths per
+          mile travelled in 2007).[9] Furthermore, for motorcycles the accident
+          rates have increased significantly since the end of the 1990s, while
+          the rates have dropped for passenger cars.
+        </p>
+        </div>
+
+       <div className="worldimg">
+       <img width="80%" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MotoEqipments_HelmetBootsJacketAndGloves.jpg/330px-MotoEqipments_HelmetBootsJacketAndGloves.jpg"></img>
+        <br></br>
+        Motorcycle equipment
+       </div>
+
+       <div className="world">
+       <p>
+          The most common configuration of motorcycle accidents in the United
+          States is when a motorist pulls out or turns in front of a
+          motorcyclist, violating their right-of-way.[57] This is sometimes
+          called a SMIDSY, an acronym formed from the motorists' common response
+          of "Sorry mate, I didn't see you".[58] Motorcyclists can anticipate
+          and avoid some of these crashes with proper training, increasing their
+          visibility to other traffic, keeping to the speed limits, and not
+          consuming alcohol or other drugs before riding.[59] The United Kingdom
+          has several organisations dedicated to improving motorcycle safety by
+          providing advanced rider training beyond what is necessary to pass the
+          basic motorcycle licence test. These include the Institute of Advanced
+          Motorists (IAM) and the Royal Society for the Prevention of Accidents
+          (RoSPA). Along with increased personal safety, riders with these
+          advanced qualifications may benefit from reduced insurance costs[60]
+        </p>
+       </div>
+
+
+        <div className="worldimg">
+        <img width="80%" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Modular-helmet.jpg/330px-Modular-helmet.jpg"></img>
+        <br></br>
+       
+          Wearing a motorcycle helmet reduces the risks of death or head injury
+          in a motorcycle crash.
+       
+        </div>
+
+
+      </div>
+
+
+      <div>
+        <h2>Environmental impact</h2>
+        <p style={{textAlign:"justify"}}>
+          Motorcycles and scooters' low fuel consumption has attracted interest
+          in the United States from environmentalists and those affected by
+          increased fuel prices.[77][78] Piaggio Group Americas supported this
+          interest with the launch of a "Vespanomics" website and platform,
+          claiming lower per-mile carbon emissions of 0.4 lb/mile (113 g/km)
+          less than the average car, a 65% reduction, and better fuel
+          economy.[79] However, a motorcycle's exhaust emissions may contain
+          10–20 times more oxides of nitrogen (NOx), carbon monoxide, and
+          unburned hydrocarbons than exhaust from a similar-year passenger car
+          or SUV.[77][80] This is because many motorcycles lack a catalytic
+          converter, and the emission standard is much more permissive for
+          motorcycles than for other vehicles.[77] While catalytic converters
+          have been installed in most gasoline-powered cars and trucks since
+          1975 in the United States, they can present fitment and heat
+          difficulties in motorcycle applications.[77][better source needed]
+          United States Environmental Protection Agency 2007 certification
+          result reports for all vehicles versus on highway motorcycles (which
+          also includes scooters),[81] the average certified emissions level for
+          12,327 vehicles tested was 0.734. The average "Nox+Co
+          End-Of-Useful-Life-Emissions" for 3,863 motorcycles tested was 0.8531.
+          54% of the tested 2007-model motorcycles were equipped with a
+          catalytic converter.
+        </p>
+
+</div>
     
 
 

@@ -183,3 +183,99 @@ h3{
 #racingdiv{
   height: 350px;
 }
+
+
+
+
+.App {
+  text-align: center;
+  padding: 50px;
+  margin: 0% auto;
+  border: 2px solid gray;
+}
+
+
+table,
+td,
+th {
+  border: 2px solid black;
+}
+
+
+.article {
+  width: 70%;
+  display: inline-block;
+  text-align: justify;
+}
+
+.articleimg {
+  border: 2px solid gray;
+  width: 28%;
+  display: inline-block;
+}
+
+
+.typesimage {
+  width: auto;
+  height: auto;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+.motorcycle-container {
+  text-align: justify;
+  display: flex;
+  align-items: flex-start; /* Align items at the start of the container */
+}
+
+.history-text {
+  flex: 1; /* Take up remaining space */
+  text-align: justify;
+  width: auto;
+ 
+}
+
+.images {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Add spacing between images */
+}
+
+.replica {
+  text-align: center;
+}
+
+p{
+  padding: 10px;
+}
+
+.text{
+  text-align: center;
+}
+
+
+.anu{
+  display:flex;
+  flex-direction: column;
+  gap: 20px;
+  
+  
+}
+.anu2{
+  text-align: justify;
+  width: 800px;
+  height: 300px;
+}
+
+
+.world{
+  display: inline-block;
+  width: 70%;
+  text-align: justify;
+}
+
+.worldimg{
+  width: 30%;
+  display: inline-block;
+  object-fit: contain;
+}
