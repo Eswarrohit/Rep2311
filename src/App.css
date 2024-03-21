@@ -212,7 +212,7 @@ p{
 .AppR {
   text-align: center;
   margin:0% auto;
-    width:100%;
+    width:90%;
     background-color:rgb(246, 240, 233);
     padding: 10px;
 }
@@ -233,6 +233,9 @@ p{
 .td{
   font-size: x-small;
   text-align: justify;
+  border: none;
+
+
 }
 ul{
   font-size: small;

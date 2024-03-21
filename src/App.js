@@ -1051,7 +1051,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
         <img src='./images/Ship.jpg' width="100%"></img>
         <h6>Feeder ship Iris Bolten at Container Terminal Altenwerder, port of Hamburg, Germany</h6>
         <h5 style={{backgroundColor:"skyblue",textAlign:"center"}}>General characteristics</h5>
-        <table>
+        <table className='td'>
           <tr>
           <th className='td'>Tonnage</th>
           <td className='td'>Greater than 500 DWT</td>
