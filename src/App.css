@@ -31,8 +31,16 @@ h1,h2{
   margin: 0%;
 }
 
+.contentdetails{
+  position: relative;
+  bottom: 70px;
+  width: 69%;
+  display: inline-block;
+
+}
 
 .sideimg{
+  width: 29%;
   display: inline-block;
 }
 
@@ -231,11 +239,7 @@ p {
   text-align: justify;
 }
 
-h3,
-h2,
-h1 {
-  text-align: start;
-}
+
 
 .headingDiv {
   text-align: justify;

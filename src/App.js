@@ -19,7 +19,7 @@ function App() {
       <hr></hr>
 
       <div>
-        <p>
+        <p className='contentdetails'>
           A <b>bullock cart or ox cart </b>(sometimes called a bullock carriage when
           carrying people in particular) is a two-wheeled or four-wheeled
           vehicle pulled by oxen. It is a means of transportation used since
@@ -58,7 +58,7 @@ function App() {
       <h2 className='biketitle'>Australia</h2>
       <hr></hr>
       <div>
-        <p>
+        <p className='contentdetails' >
           In Australia, bullock carts were referred to as bullock drays, had
           four wheels, and were usually used to carry large loads. Drays were
           pulled by bullock teams which could consist of 20 or more animals. The
@@ -69,7 +69,7 @@ function App() {
           and even weeks.
         </p>
 
-        <div className="sideimg">
+        <div className="sideimg" >
           <a href="./images/indiapeople.jpg">
             <img  src="./images/indiapeople.jpg" alt=""></img>
           </a>
@@ -80,7 +80,7 @@ function App() {
       <h2 className='biketitle'>Cost Rica</h2>
       <hr></hr>
       <div>
-        <p>
+        <p className='contentdetails'>
         
           In Costa Rica, ox carts (carretas in the Spanish language) were an
           important aspect of daily life and commerce, especially between 1850
@@ -111,7 +111,7 @@ function App() {
       <hr></hr>
 
       <div>
-       <p> In Indonesia, bullock carts are used in the rural parts of the country
+       <p className='contentdetails'> In Indonesia, bullock carts are used in the rural parts of the country
         for transporting goods and people, but more often in Indonesia are
         horsecars used rather than bullock carts. A bullock cart driver is known
         as, in Indonesian, a bajingan.</p>
