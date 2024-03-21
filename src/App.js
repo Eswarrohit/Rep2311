@@ -4,18 +4,18 @@ function App() {
    <div className="App">
     
 
-
-
-
-
-
     <div className="App">
-      <div className="title">
-        <img width="150px" src="./images/bg.webp" alt=""></img>
-        <p className="titlename">Bullock cart</p>
-        <img width="150px" src="./images/bg1.jpg" alt=""></img>
+
+
+      <div className="titlebull">
+        <img className='bullimg'  src="./images/bg.webp" alt=""></img>
+        <p className="titlebullname">Bullock cart</p>
+        <img className='bullimg'  src="./images/bg1.jpg" alt=""></img>
       </div>
-      <h1>Bullock cart</h1>
+
+
+
+      <h2 className='biketitle'>Bullock cart</h2>
       <hr></hr>
 
       <div>
@@ -37,16 +37,16 @@ function App() {
 
         <div className="sideimg">
           <a href="./images/panjab.jpg">
-            <img width="85%" src="./images/panjab.jpg" alt=""></img>
+            <img src="./images/panjab.jpg" alt=""></img>
           </a>
           <br></br> A Bullock cart in Punjab,India
         </div>
 
       </div>
 
-      <h2>History</h2>
+      <h2 className='biketitle'>History</h2>
       <hr></hr>
-      <p style={{ width: "100%" }}>
+      <p>
         The first indications for the use of a wagon (cart tracks, incisions,
         model wheels) are dated to around 4400 BC. The oldest wooden wheels
         usable for transport were found in southern Russia and dated to 3325 ±
@@ -55,7 +55,7 @@ function App() {
         been ox carts.
       </p>
 
-      <h2>Australia</h2>
+      <h2 className='biketitle'>Australia</h2>
       <hr></hr>
       <div>
         <p>
@@ -71,17 +71,17 @@ function App() {
 
         <div className="sideimg">
           <a href="./images/indiapeople.jpg">
-            <img width="90%" src="./images/indiapeople.jpg" alt=""></img>
+            <img  src="./images/indiapeople.jpg" alt=""></img>
           </a>
           <br></br> Indian people with their Bullock cart in 19s.
         </div>
       </div>
 
-      <h2>Cost Rica</h2>
+      <h2 className='biketitle'>Cost Rica</h2>
       <hr></hr>
       <div>
         <p>
-          {" "}
+        
           In Costa Rica, ox carts (carretas in the Spanish language) were an
           important aspect of daily life and commerce, especially between 1850
           and 1935, developing a unique construction and decoration tradition
@@ -97,7 +97,7 @@ function App() {
 
         <div className="sideimg">
           <a href="./images/colorpost.jpeg">
-            <img width="100%" src="./images/colorpost.jpeg" alt=""></img>
+            <img src="./images/colorpost.jpeg" alt=""></img>
           </a><br></br>
           A colour postcard printed in England by Raphael Tuck & Sons, and
           featuring an "Oilette" image of a bullock team carting a load of wool.
@@ -107,7 +107,7 @@ function App() {
 
 
 
-      <h2>Indonesia</h2>
+      <h2 className='biketitle'>Indonesia</h2>
       <hr></hr>
 
       <div>
@@ -118,137 +118,137 @@ function App() {
    
       <div className="sideimg">
         <a href="./images/temple.jpeg">
-          <img width="100%"  src="./images/temple.jpeg" alt=""></img>
+          <img src="./images/temple.jpeg" alt=""></img>
         </a><br></br>
         Ox cart with bajingan at Prambanan Temple Festival
       </div>
 
       </div>
 
-      <h2>Malaysia</h2>
+      <h2 className='biketitle'>Malaysia</h2>
       <hr></hr>
       <div>
-        <p style={{width:"100%"}}>Bullock carts were widely used in Malaysia before the introduction of
+        <p>Bullock carts were widely used in Malaysia before the introduction of
         automobiles, and many are still used today. These included passenger
         vehicles, now used especially for tourists.[4] Passenger carts are
         usually equipped with awnings for protection against sun and rain, and
         are often gaily decorated</p>
       </div>
 
-      <h2>North Korea</h2>
+      <h2 className='biketitle'>North Korea</h2>
       <hr></hr>
       <div>
-       <p style={{width:"100%"}}>Bullock carts, called dalguji, are still extensively used in North Korea
+       <p >Bullock carts, called dalguji, are still extensively used in North Korea
         because of fuel shortages. It is perhaps the last country where it is
         used for everyday transportation, both in agriculture and in military.</p>
       </div>
 
-      <h2>Gallery</h2>
+      <h2 className='biketitle'>Gallery</h2>
       <hr></hr>
 
-      <div className="images">
+      <div className="images1">
         <a href="./images/argentina.jpg">
-          <img style={{ width: "100%" }} src="./images/argentina.jpg" alt=""></img>
+          <img  src="./images/argentina.jpg" alt=""></img>
         </a>
-        Gauchos with an ox-drawn cart in Argentina
-      </div>
+<p>  Gauchos with an ox-drawn cart in Argentina</p>  
+    </div>
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/portugal.jpg">
-          <img style={{ width: "100%" }} src="./images/portugal.jpg" alt=""></img>
+          <img src="./images/portugal.jpg" alt=""></img>
         </a>
-        Cattle-drawn cart in Portugal
+        <p>Cattle-drawn cart in Portugal</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/india.jpg">
-          <img style={{ width: "100%" }} src="./images/india.jpg" alt=""></img>
+          <img  src="./images/india.jpg" alt=""></img>
         </a>
-        Bullock cart in Mysore Zoo, India
+        <p>Bullock cart in Mysore Zoo, India</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/india1.jpg">
-          <img style={{ width: "100%" }} src="./images/india1.jpg" alt=""></img>
+          <img src="./images/india1.jpg" alt=""></img>
         </a>
-        cart in India
+        <p>cart in India</p>
       </div>
 
 
       
-      <div className="images">
+      <div className="images1">
       <a href="./images/costarica.jpg">
-          <img style={{ width: "100%" }} src="./images/costarica.jpg" alt=""></img>
+          <img  src="./images/costarica.jpg" alt=""></img>
         </a>
-        Typical oxcart decoration of Costa Rica
+        <p>Typical oxcart decoration of Costa Rica</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/texas.jpg">
-          <img style={{ width: "100%" }} src="./images/texas.jpg" alt=""></img>
+          <img src="./images/texas.jpg" alt=""></img>
         </a>
-        Mexican carreta in El Paso, Texas, circa 1885
+        <p>Mexican carreta in El Paso, Texas, circa 1885</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/japan.jpg">
-          <img style={{ width: "100%" }} src="./images/japan.jpg" alt=""></img>
+          <img  src="./images/japan.jpg" alt=""></img>
         </a>
-        Reproduction Japanese aristocracy's bullock cart in Jidai Matsuri
+       <p> Reproduction Japanese aristocracy's bullock cart in Jidai Matsuri</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/punjab1.jpg">
-          <img style={{ width: "100%" }} src="./images/punjab1.jpg" alt=""></img>
+          <img  src="./images/punjab1.jpg" alt=""></img>
         </a>
-        Bullock Cart in Punjab
+       <p> Bullock Cart in Punjab</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/california.jpg">
-          <img style={{ width: "100%" }} src="./images/california.jpg" alt=""></img>
+          <img  src="./images/california.jpg" alt=""></img>
         </a>
-        bullock cart of 1836 in California
+        <p>bullock cart of 1836 in California</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/niger.jpg">
-          <img style={{ width: "100%" }} src="./images/niger.jpg" alt=""></img>
+          <img  src="./images/niger.jpg" alt=""></img>
         </a>
-        Ox-drawn cart in Filingué, Niger
+        <p>Ox-drawn cart in Filingué, Niger</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/srilanka.jpg">
-          <img style={{ width: "100%" }} src="./images/srilanka.jpg" alt=""></img>
+          <img src="./images/srilanka.jpg" alt=""></img>
         </a>
-        Bullock cart race in Jaffna, Sri Lanka
+        <p>Bullock cart race in Jaffna, Sri Lanka</p>
       </div>
 
 
 
-      <div className="images">
+      <div className="images1">
       <a href="./images/georgia.jpg">
-          <img style={{ width: "100%" }} src="./images/georgia.jpg" alt=""></img>
+          <img src="./images/georgia.jpg" alt=""></img>
         </a>
-        Ox-drawn cart in Georgia, circa 1883
+        <p>Ox-drawn cart in Georgia, circa 1883</p>
       </div>
 
 
@@ -256,11 +256,11 @@ function App() {
 
 
 
+{/* -----------------------------RK-------------------------- */}
 
 
 
-
-<h1>Bicycle</h1>
+<h1 className='bicyclemainheading'>Bicycle</h1>
       <img className="mainimg" src="./Cycle/ram.png"></img>
       <p>
         <strong>
@@ -279,7 +279,7 @@ function App() {
         </strong>
       </p>
       <hr></hr>
-      <h2>
+      <h2 className='biketitle'>
         <ins><mark>History</mark></ins>
       </h2>
       <div className="cycle1">
@@ -310,7 +310,7 @@ function App() {
       </p>
       <hr></hr>
 
-      <h2>
+      <h2 className='biketitle'>
         <ins><mark>Parts</mark></ins>
       </h2>
       <div>
@@ -395,7 +395,7 @@ function App() {
         </p>
       </div>
       <img src="./Cycle/brakes.jpg"></img>
-      <h2>
+      <h2 className='biketitle' >
         <ins><mark>In Daily Life</mark></ins>
       </h2>
       <h3>Poverty alleviation</h3>
@@ -466,7 +466,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2><mark><ins>Gallery</ins></mark></h2>
+        <h2 className='biketitle'><mark><ins>Gallery</ins></mark></h2>
         <div className="cycle1">
           <img  src="./Cycle/gallery1.jpg"></img>
           <p>Kids Bicycle</p>
@@ -507,9 +507,9 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
 
-          <h1>Motorcycle</h1>
+          <h1 className='bicyclemainheading'>Motorcycle</h1>
       <div>
-        <h2>Article</h2>
+        <h2 className='biketitle'>Article</h2>
 
         <p className="article">
           A motorcycle (motorbike, bike, or, if three-wheeled, a trike) is a two
@@ -558,7 +558,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
       </div>
 
       <div>
-        <h2>Main article: Types of motorcycles</h2>
+        <h2 className='biketitle'>Main article: Types of motorcycles</h2>
         <p style={{textAlign:"justify"}}>
           The term motorcycle has different legal definitions depending on
           jurisdiction (see § Legal definitions and restrictions). There are
@@ -617,7 +617,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
       </div>
      
 
-      <h2 className="text ">History</h2>
+      <h2 className='biketitle'>History</h2>
 
       <div className="motorcycle-container">
         <div className="history">
@@ -757,7 +757,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
       <div className="container">
 
-        <h2>First motorcycle companies</h2>
+        <h2 className='biketitle'>First motorcycle companies</h2>
         
         <div className="world">
         <p>
@@ -805,7 +805,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>First World War</h2>
+        <h2 className='biketitle'>First World War</h2>
         <div className="world">
 
         <p>
@@ -839,7 +839,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>Postwar</h2>
+        <h2 className='biketitle'>Postwar</h2>
         
       <div className="world">
       <p>
@@ -907,7 +907,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>Today</h2>
+        <h2 className='biketitle'>Today</h2>
         <div className="world">
         <p>
           In the 21st century, the motorcycle industry is mainly dominated by
@@ -937,7 +937,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>Records</h2>
+        <h2 className='biketitle'>Records</h2>
         <p>
           .The world record for the longest motorcycle jump was set in 2008 by
           Robbie Maddison with 107 metres (351 ft).[54] .Since late 2010, the
@@ -948,7 +948,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>Safety</h2>
+        <h2 className='biketitle'>Safety</h2>
         <div className="world">
         <p>
           Motorcycles have a higher rate of fatal accidents than automobiles or
@@ -1006,7 +1006,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2>Environmental impact</h2>
+        <h2 className='biketitle'>Environmental impact</h2>
         <p style={{textAlign:"justify"}}>
           Motorcycles and scooters' low fuel consumption has attracted interest
           in the United States from environmentalists and those affected by

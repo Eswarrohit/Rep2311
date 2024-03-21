@@ -1,27 +1,29 @@
+/* ---------------------Naidu--------- */
 .App {
- 
-  text-align: justify;
-  /* margin: 0% auto; */
-  font-family: sans-serif;
-  /* background-image: url(/public/images/bg.webp); */
+  text-align: center;
 }
 
-.title{
+.bullimg{
+  width: 150px;
+  display: inline-block;
+}
+
+.titlebull{
+  height: 180px;
   text-align: center;
   border: 5px double gray;
-height: 150px;
 }
 
-.titlename::first-letter{
+
+.titlebullname::first-letter{
+  font-size: 6rem;
   color: red;
-  font-size: 5rem;
 }
 
-.titlename{
-  position: relative;
-  bottom: 30px;
+.titlebullname{
+  display: inline-block;
+  font-size: 5rem;
   text-align: center;
-  font-size: 4rem;
   font-family: 'Times New Roman', Times, serif;
 }
 
@@ -29,161 +31,35 @@ h1,h2{
   margin: 0%;
 }
 
-p{
-  padding-right: 10px;
-  width: 70%;
-  display: inline-block;
-  text-align: justify;
-  font-family: sans-serif;
-}
 
 .sideimg{
   display: inline-block;
-  width: 25%;
-  font-size: 0.7rem;
-  text-align: justify;
 }
 
-
-
-h1,h2{
-  text-align: justify;
-  font-family: serif;
-}
-
-
-.images{
-  width: 32%;
+.images1{
+  border: 2px solid black;
+  width: 24%;
   height: 280px;
-overflow: hidden; 
- display: inline-block;
- margin: 2px;
+  overflow: hidden; 
+  display: inline-block;
+ margin: 5px;
   
 }
 
 
 
-
-
-
-
-
-
-h1,h2,h3,h5,h4{
-  text-align: start;
-}
-th,td{
-  font-size: x-small;
-  text-align: justify;
-}
-ul{
-  font-size: small;
-  font-weight: bold;
-}
-p{
-  text-align: justify;
-   padding-right: 0.5em;
-}
-.divp{
-  display: inline-block;
-  width: auto;
-}
-.Image{
-  display: inline-block;
-  width: auto;
-  border: 1px solid gray;
-  
-}
-
-
-
-
-img {
-  width: 100%;
-}
-
-.imgDiv1 {
-  width: 35%;
-  display: inline-block;
-  padding: 10px;
-  border: 2px solid gray;
-}
-
-.paragraphDiv {
-  display: inline-block;
-  width: 55%;
-  padding-right: 20px;
-}
-
-p {
-  text-align: justify;
-}
-
-h3,
-h2,
-h1 {
-  text-align: start;
-}
-
-.headingDiv {
-  text-align: justify;
-  margin: 20px;
-}
-
-
-
-
-#container {
-  display: inline-block;
-
-  width: 75%;
-  height: 500px;
-  text-align: justify;
-}
-
-#pic {
-  display: inline-block;
-  width: 25%;
-}
-
-#container1 {
-  display: inline-block;
-  width: 65%;
-  height: 300px;
-  text-align: justify;
-  border-radius: 20px;
-}
-
-#pic1 {
-  display: inline-block;
-  width: 30%;
-}
-
-#container2 {
-  display: inline-block;
-  width: 68%;
-  height: 500px;
-  text-align: justify;
-  border-radius: 20px;
-  font: 2px;
-}
-
-#pic2 {
-  display: inline-block;
-  width: 30%;
-}
-
-h2 {
-  padding: 15px;
-}
-
-
+/* ---------------------------RK------------------------- */
 
 
 .mainimg{
   width: 500px;
 }
-h1::first-letter{
+
+.bicyclemainheading{
+  text-align: center;
+}
+
+.bicyclemainheading::first-letter{
   font-size: 6rem;
   color: red;
   font-family: 'Times New Roman', Times, serif;
@@ -203,11 +79,7 @@ p{
  
   text-align: justify;
 }
-h2{
-  text-align: left;
-  font-size: 3rem;
-  font-family: 'Courier New', Courier, monospace;
-}
+
 .partsimg{
   width: 800px;
   border: 2px solid black;
@@ -226,16 +98,19 @@ h3{
   height: 350px;
 }
 
+/* -----------------Anusha----------- */
 
-
-
-
-
+.biketitle{
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3rem;
+}
 
 table,
 td,
 th {
   border: 2px solid black;
+  text-align: center;
 }
 
 
@@ -317,3 +192,114 @@ p{
   display: inline-block;
   object-fit: contain;
 }
+
+/* ------------------------------- */
+
+h1,h2,h3,h5,h4{
+  text-align: start;
+}
+
+ul{
+  font-size: small;
+  font-weight: bold;
+}
+p{
+  text-align: justify;
+   padding-right: 0.5em;
+}
+.divp{
+  display: inline-block;
+  width: auto;
+}
+.Image{
+  display: inline-block;
+  width: auto;
+  border: 1px solid gray;
+  
+}
+
+
+
+
+.imgDiv1 {
+  width: 35%;
+  display: inline-block;
+  padding: 10px;
+  border: 2px solid gray;
+}
+
+.paragraphDiv {
+  display: inline-block;
+  width: 55%;
+  padding-right: 20px;
+}
+
+p {
+  text-align: justify;
+}
+
+h3,
+h2,
+h1 {
+  text-align: start;
+}
+
+.headingDiv {
+  text-align: justify;
+  margin: 20px;
+}
+
+
+
+
+#container {
+  display: inline-block;
+
+  width: 75%;
+  height: 500px;
+  text-align: justify;
+}
+
+#pic {
+  display: inline-block;
+  width: 25%;
+}
+
+#container1 {
+  display: inline-block;
+  width: 65%;
+  height: 300px;
+  text-align: justify;
+  border-radius: 20px;
+}
+
+#pic1 {
+  display: inline-block;
+  width: 30%;
+}
+
+#container2 {
+  display: inline-block;
+  width: 68%;
+  height: 500px;
+  text-align: justify;
+  border-radius: 20px;
+  font: 2px;
+}
+
+#pic2 {
+  display: inline-block;
+  width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
