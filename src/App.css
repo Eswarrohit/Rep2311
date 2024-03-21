@@ -71,41 +71,14 @@ overflow: hidden;
 
 
 
-* {
-  margin: 0%;
-  padding: 0%;
-  box-sizing: border-box;
-}
 
-.App {
-  text-align: center;
-  margin:0% auto;
-  width:70%;
-}
-h1,h2,h3,h5,h4{
-  text-align: start;
-}
-th,td{
-  font-size: x-small;
-  text-align: justify;
-}
-ul{
-  font-size: small;
-  font-weight: bold;
-}
-p{
-  text-align: justify;
-   padding-right: 0.5em;
-}
-.divp{
-  display: inline-block;
-  width: auto;
-}
-.Image{
-  display: inline-block;
-  width: auto;
-  border: 1px solid gray;
-}
+
+
+
+
+
+
+
 
 
 .App {
