@@ -5,10 +5,6 @@ function App() {
     
 
 
-
-
-
-
     <div className="App">
       <div className="title">
         <img width="150px" src="./images/bg.webp" alt=""></img>
