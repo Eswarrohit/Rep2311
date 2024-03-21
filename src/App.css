@@ -138,11 +138,11 @@ th {
 .motorcycle-container {
   text-align: justify;
   display: flex;
-  align-items: flex-start; /* Align items at the start of the container */
+  align-items: flex-start; 
 }
 
 .history-text {
-  flex: 1; /* Take up remaining space */
+  flex: 1; 
   text-align: justify;
   width: auto;
  
@@ -151,7 +151,7 @@ th {
 .images {
   display: flex;
   flex-direction: column;
-  gap: 20px; /* Add spacing between images */
+  gap: 20px; 
 }
 
 .replica {
@@ -166,20 +166,7 @@ p{
   text-align: center;
 }
 
-
-.anu{
-  display:flex;
-  flex-direction: column;
-  gap: 20px;
-  
-  
-}
-.anu2{
-  text-align: justify;
-  width: 800px;
-  height: 300px;
-}
-
+ 
 
 .world{
   display: inline-block;
@@ -191,6 +178,12 @@ p{
   width: 30%;
   display: inline-block;
   object-fit: contain;
+}
+#summary{
+  text-align: center;
+}
+#mainH{
+  text-align: center;
 }
 
 /* ------------------------------- */

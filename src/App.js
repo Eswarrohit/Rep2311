@@ -509,7 +509,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
           <h1 className='bicyclemainheading'>Motorcycle</h1>
       <div>
-        <h2 className='biketitle'>Article</h2>
+        <ins><h2 className='biketitle'>Article</h2></ins>
 
         <p className="article">
           A motorcycle (motorbike, bike, or, if three-wheeled, a trike) is a two
@@ -617,7 +617,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
       </div>
      
 
-      <h2 className='biketitle'>History</h2>
+      <h2 className='biketitle' id='mainH'>History</h2>
 
       <div className="motorcycle-container">
         <div className="history">
@@ -693,7 +693,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
         </div>
       </div>
       <div>
-        <h3>Summary of early inventions</h3>
+        <h3 id='summary'>Summary of early inventions</h3>
         <table>
           <thead>
             <th>Year</th>
@@ -805,7 +805,7 @@ Professional racing originated in Western Europe, centred in France, Spain, Ital
 
 
       <div>
-        <h2 className='biketitle'>First World War</h2>
+        <ins><h2 className='biketitle'>First World War</h2></ins>
         <div className="world">
 
         <p>
