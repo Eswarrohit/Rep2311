@@ -1296,16 +1296,16 @@ function App() {
               </b>
               Sneferu's ancient cedar wood ship Praise of the Two Lands is the
               first reference recorded (2613 BC) to a ship being referred to by
-              name.
-              <br></br>The ancient Egyptians were perfectly at ease building
+              name.</p>
+              <p>The ancient Egyptians were perfectly at ease building
               sailboats. A remarkable example of their shipbuilding skills was
               the Khufu ship, a vessel 143 feet (44 m) in length entombed at the
               foot of the Great Pyramid of Giza around 2500 BC and found intact
-              in 1954.
-              <br></br>The oldest discovered sea faring hulled boat is the Late
+              in 1954.</p>
+              <p>The oldest discovered sea faring hulled boat is the Late
               Bronze Age Uluburun shipwreck off the coast of Turkey, dating back
-              to 1300 BC.
-              <br></br>By 1200 B.C., the Phoenicians were building large
+              to 1300 BC.</p>
+              <p>By 1200 B.C., the Phoenicians were building large
               merchant ships. In world maritime history, declares Richard
               Woodman, they are recognized as "the first true seafarers,
               founding the art of pilotage, cabotage, and navigation" and the
