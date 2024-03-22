@@ -547,7 +547,7 @@ function App() {
           <p>College Students</p>
         </div>
 
-
+</div>
 
         <h1 className="bicyclemainheading">Motorcycle</h1>
         <div>
@@ -2010,7 +2010,7 @@ function App() {
           </div>
 
           <hr></hr>
-        </div>
+      
       </div>
     </div>
   );
