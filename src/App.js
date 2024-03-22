@@ -1064,7 +1064,7 @@ function App() {
         </div>
 
         <div className="AppR">
-          <h1 className="Heading1">Ship</h1>
+          <h1 className="Heading1" id='heading1' style={{textAlign:"center",font:"4rem"}}>SHIP</h1>
           <hr></hr>
           <div className="divp">
             <p>
@@ -1077,23 +1077,25 @@ function App() {
                   support of specialized missions, such as defense, research and
                   fishing.
                 </ins>
-              </b>
-              Ships are generally distinguished from boats, based on size,
+              </b></p>
+              <p>Ships are generally distinguished from boats, based on size,
               shape, load capacity and purpose. Ships have supported
               exploration, trade, warfare, migration, colonization, and science.
               Ship transport is responsible for the largest portion of world
-              commerce.The word ship has meant, depending on the era and the
+              commerce.</p>
+              <p>The word ship has meant, depending on the era and the
               context, either just a large vessel or specifically a ship-rigged
               sailing ship with three or more masts, each of which is
-              square-rigged.
-              <ins>
+              square-rigged.</p>
+             <p><ins>
                 As of 2016, there were more than 49,000 merchant ships, totaling
                 almost 1.8 billion deadweight tons. Of these 28% were oil
                 tankers, 43% were bulk carriers, and 13% were container ships.
-              </ins>
-              The earliest historical evidence of boats is found in Egypt during
-              the 4th millennium BCE.
-            </p>
+              </ins>The earliest historical evidence of boats is found in Egypt during
+              the 4th millennium BCE.</p> 
+              
+              
+            
           </div>
 
           <div className="ShipImage">
@@ -1136,12 +1138,13 @@ function App() {
               accepted distinction between the two. Ships generally can remain
               at sea for longer periods of time than boats. A legal definition
               of ship from Indian case law is a vessel that carries goods by
-              sea. A common notion is that a ship can carry a boat, but not vice
+              sea.</p> 
+              <p>A common notion is that a ship can carry a boat, but not vice
               versa. A ship is likely to have a full-time crew assigned. A US
               Navy rule of thumb is that ships heel towards the outside of a
               sharp turn, whereas boats heel towards the inside because of the
               relative location of the center of mass versus the center of
-              buoyancy.
+              buoyancy.</p><p>
               <b>
                 <ins>
                   American and British 19th century maritime law distinguished
@@ -1149,12 +1152,10 @@ function App() {
                   legal category, whereas open boats and rafts are not
                   considered vessels.
                 </ins>
-              </b>
-              Particularly in the Age of Sail, the word ship might apply
+              </b> Particularly in the Age of Sail, the word ship might apply
               generally to a seagoing vessel or particularly to a full-rigged
               sailing ship with three or more masts, all square-rigged. Other
-              rigs on seagoing vessels included brig, barque, and barquentine
-            </p>
+              rigs on seagoing vessels included brig, barque, and barquentine</p>
           </div>
           <div className="ShipImage">
             <img src="./images/Ship1.png" width="100%"></img>
@@ -1293,7 +1294,8 @@ function App() {
                 30th and 25th centuries BC, the river-routes were kept in order,
                 and Egyptian ships sailed the Red Sea as far as the
                 myrrh-country."
-              </b>
+              </b></p>
+              <p>
               Sneferu's ancient cedar wood ship Praise of the Two Lands is the
               first reference recorded (2613 BC) to a ship being referred to by
               name.</p>
@@ -1382,12 +1384,13 @@ function App() {
               decreased the vessel's stability, and in the 15th century, the
               caravel, designed by the Portuguese, based on the Arabic
               qarib[citation needed] which could sail closer to the wind, became
-              more widely used. The towers were gradually replaced by the
+              more widely used.</p>
+              <p>The towers were gradually replaced by the
               forecastle and sterncastle, as in the carrack Santa María of
               Christopher Columbus. This increased freeboard allowed another
               innovation: the freeing port, and the artillery associated with
-              it.
-            </p>
+              it.</p>
+            
           </div>
           <div className="ShipImage">
             <img src="./images/Ship8.jpg" width="100%"></img>

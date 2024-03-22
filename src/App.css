@@ -194,7 +194,7 @@ p{
   text-align: center;
 }
 
-/* -------------ROHITH------------------ */
+/* ------------------ROHITH----------------------------------------------------------------------------- */
 
 * {
   margin: 0%;
@@ -214,6 +214,10 @@ p{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#heading1::first-letter{
+  font-size: 4.2rem;
+
+}
 .Heading1::first-letter{
   font-size: 2.5rem;
   color: crimson;
