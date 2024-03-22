@@ -1,6 +1,7 @@
 /* ---------------------Naidu--------- */
 .App {
   text-align: center;
+ 
 }
 
 .bullimg{
@@ -58,7 +59,13 @@ h1,h2{
 
 /* ---------------------------RK------------------------- */
 
-
+.rammaindiv{
+  text-align: center;
+  margin:0% auto;
+    width:90%;
+    background-color:rgb(246, 240, 233);
+    padding: 10px;
+}
 .mainimg{
   width: 500px;
 }
@@ -95,8 +102,9 @@ p{
 .partsDiv{
   display: inline-block;
  overflow: auto;
- width: 80%;
+ width: 65%;
  height: 200px;
+ margin: 20px;
 }
 h3{
   font-size: 2rem;

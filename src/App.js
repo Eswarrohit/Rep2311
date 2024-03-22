@@ -234,7 +234,7 @@ function App() {
       </div>
 
       {/* -----------------------------RK-------------------------- */}
-
+<div className='rammaindiv'>
       <h1 className="bicyclemainheading">Bicycle</h1>
       <img className="mainimg" src="./Cycle/ram.png"></img>
       <p>
@@ -488,39 +488,66 @@ function App() {
             <ins>Gallery</ins>
           </mark>
         </h2>
+
+        
         <div className="cycle1">
           <img src="./Cycle/gallery1.jpg"></img>
           <p>Kids Bicycle</p>
         </div>
 
+        
+       
+
+
+
         <div className="cycle1">
-          <img src="./Cycle/gallery2.jpg"></img>
-          <p>Lady Bird</p>
-        </div>
-        <div className="cycle1">
-          <img src="./Cycle/gallery3.jpg"></img>
-          <p>18th century using this Bicycle</p>
-        </div>
-        <div className="cycle1">
-          <img src="./Cycle/gallery4.jpg"></img>
-          <p>Racing Bicycle</p>
-        </div>
+          <img src="./Cycle/gallery8.webp"></img>
+          <p>3 Seater Bicycle</p>
+          </div>
+
+
         <div className="cycle1">
           <img src="./Cycle/gallery7.webp"></img>
           <p>College Students in village</p>
         </div>
-        <div className="cycle1">
-          <img src="./Cycle/gallery8.webp"></img>
-          <p>3 Seater Bicycle</p>
-        </div>
+       
+      
         <div className="cycle1">
           <img src="./Cycle/gallery5.jpg"></img>
           <p>Farming Bicycle</p>
         </div>
+
+
+        
+
+
+        <div className="cycle1">
+          <img src="./Cycle/gallery2.jpg"></img>
+          <p>Lady Bird</p>
+        </div>
+
+
+        </div>
+
+
+
+        <div className="cycle1">
+          <img src="./Cycle/gallery3.jpg"></img>
+          <p>18th century using this Bicycle</p>
+        </div>
+
+
+        <div className="cycle1">
+          <img src="./Cycle/gallery4.jpg"></img>
+          <p>Racing Bicycle</p>
+        </div>
+
         <div className="cycle1">
           <img src="./Cycle/gallery6.webp"></img>
           <p>College Students</p>
         </div>
+
+
 
         <h1 className="bicyclemainheading">Motorcycle</h1>
         <div>
