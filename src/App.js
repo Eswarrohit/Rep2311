@@ -1677,7 +1677,7 @@ function App() {
             impact of airplanes is noise pollution, mainly caused by aircraft
             taking off and landing.
           </p>
-          <img src="./plane/effect.jpg" width="1500px" height="700px"></img>
+          <img className='effect' src="./plane/effect.jpg" width="1500px" height="700px"></img>
         </div>
         <hr></hr>
         <hr></hr>
