@@ -1094,6 +1094,344 @@ function App() {
           </p>
         </div>
 
+
+
+
+
+
+
+        <div>
+      <div className="carHeadingDiv">
+        <h1 style={{ textAlign: "center",color:'crimson' }}>Automotive industry in India</h1>
+        <hr></hr>
+        <p className="carParagraph">
+          The automotive industry in India is the fourth-largest by production
+          in the world as per 2022 statistics.[1][2][3] As of 2023, India is the
+          3rd largest automobile market in the world in terms of sales.[4] In
+          2022, India became the fourth largest country in the world by the
+          valuation of its automotive industry.
+        </p>
+
+        <p className="carParagraph">
+          As of April 2022, India's auto industry is worth more than US$100
+          billion and accounts for 8% of the country's total exports and 7.1% of
+          India's GDP.[5] According to the 2021 National Family Health Survey,
+          barely 8% of Indian households own an automobile.[6][7] According to
+          government statistics, India has barely 22 automobiles per 1,000
+          people
+        </p>
+      </div>
+      <hr></hr>
+
+      <div className="carAppDiv">
+        <h2 className="carHeadings">History</h2>
+        <div className="carParagraphDiv">
+          <p
+            style={{ position: "relative", bottom: "30px" }}
+            className="carParagraph"
+          >
+            In 1897, the first car ran on an Indian road. Through the 1930s,
+            cars were imports only, and in small numbers. An embryonic
+            automotive industry emerged in India in the 1940s. Hindustan Motors
+            was launched in 1942 building Morris products, long-time competitor
+            Premier in 1944, building Chrysler Corporation products such as
+            Dodge and Plymouth, and beginning in the 1960s, Fiat products.[10]
+            Mahindra & Mahindra was established by two brothers in 1945 and
+            began assembly of Jeep CJ-3A utility vehicles.<br></br> In the same
+            years, J. R. D. Tata, the chairman of Tata Group founded TATA
+            Engineering and Locomotive Company (now Tata Motors) in Jamshedpur.
+            Following independence in 1947, the Government of India and the
+            private sector launched efforts to create an automotive-component
+            manufacturing industry to supply to the automobile industry. In
+            1953, an import substitution programme was launched, and the import
+            of fully built-up cars began to be restricted.
+          </p>
+        </div>
+
+        <div
+          style={{ position: "relative", bottom: "30px" }}
+          className="carImageDiv1"
+        >
+          <img
+            style={{ width: "300px", height: "250px" }}
+            src="./images/first car showroom.jpeg"
+          ></img>
+          <p>
+            A pre-Independence car showroom in Secunderabad, showing Fiat
+            Topolino and Fiat 1100
+          </p>
+        </div>
+
+        <hr></hr>
+        <h3 className="carHeadings">1947–1970</h3>
+
+        <div className="carParagraphDiv">
+          <p className="carParagraph">
+            In 1952, the Indian government appointed the first Tariff
+            Commission, whose purpose was to come out with a feasibility plan
+            for the indigenization of the Indian automobile industry. In 1953,
+            the commission submitted its report, which recommended categorizing
+            existing Indian car companies according to their manufacturing
+            infrastructure, under a licensed capacity to manufacture a certain
+            number of vehicles, with capacity increases allowable, as per
+            demands, in the future.<br></br> The Tariff Commission
+            recommendations were implemented with new policies that would
+            eventually exclude companies that only imported parts for assembly,
+            as well as those with no Indian partner.<br></br> In 1954, following
+            the Tariff Commission implementation, General Motors, Ford, and
+            Rootes Group, which had assembly-only plants in Mumbai, decided to
+            move out of India.[11] The Tariff commission policies, including
+            similar restrictions that applied to other industries, came to be
+            known as the Licence Raj, which proved to be the greatest undoing of
+            the Indian automotive industry, where bureaucratic red tape ended up
+            causing demand to outstrip supply, with month-long waiting periods
+            for cars, scooters, and motorcycles.
+          </p>
+        </div>
+
+        <div
+          style={{ position: "relative", bottom: "60px" }}
+          className="carImageDiv1"
+        >
+          <img
+            style={{ width: "300px", height: "300px" }}
+            src="./images/Kolkata 1945.jpg"
+          ></img>
+          <p>Kolkata street traffic in 1945</p>
+        </div>
+
+        <hr></hr>
+
+        <h1 className="carHeadings">Hindustan Ambassador</h1>
+        <div className="carParagraphDiv">
+          <p
+            className="carParagraph"
+            style={{ position: "relative", bottom: "30px" }}
+          >
+            The Hindustan Ambassador is an automobile that was manufactured by
+            Hindustan Motors of India from 1957 to 2014, with improvements and
+            changes over its production lifetime. The Ambassador was based on
+            the Morris Oxford series III model, first made by Morris Motors
+            Limited at Cowley, Oxford in the United Kingdom from 1956 to 1959.
+            <br></br> Despite its British origins, the Ambassador was considered
+            as a definitive Indian car and was fondly called the "King of Indian
+            roads".[1] The automobile was manufactured by Hindustan Motors at
+            its Uttarpara plant[2] near Kolkata, West Bengal. <br></br> On 11
+            February 2017, Hindustan Motors executed an agreement with PSA Group
+            for the sale of the Ambassador brand, including the trademarks, for
+            a consideration of ₹80 crore (US$10 million).[3] The tie-up entailed
+            two joint-venture agreements between the companies of the two
+            groups.
+          </p>
+        </div>
+
+        <div className="carImageDiv1">
+          <img
+            style={{ width: "300px", height: "250px" }}
+            src="./images/Ambassador.jpg"
+          ></img>
+          <p>
+            The Hindustan Ambassador dominated India's automotive market from
+            the 1960s until the mid-1980s and was manufactured until 2014
+          </p>
+        </div>
+
+        <hr></hr>
+
+        <h2 className="carHeadings">History</h2>
+        <h3 className="carHeadings">Design and development</h3>
+
+        <div className="carParagraphDiv">
+          <p className="carParagraph">
+            The Ambassador was basically the same Morris Oxford Series - III,
+            launched by Morris, then a part of British Motor Corporation. In
+            1956 it sold the rights and tooling to Hindustan Motors as it had
+            done for its previous Series - I and Series - II models which were
+            sold by Hindustan Motors as Hindustan 14 and Landmaster. The Series
+            -III model itself was a derivative of the Morris Oxford Series - II
+            model which was developed prior to the Austin and Morris merger.
+            <br></br> The car was quite spacious due to its semi-monocoque
+            design which was quite an advancement in the early 1950s in vehicle
+            engineering. The car was designed by Alec Issigonis whose other
+            designs were the Mini and Morris Minor. The Ambassador replaced the
+            Morris Oxford Series II based Hindustan Landmaster, which was quite
+            similar, and the larger Hindustan Deluxe based on the Chevrolet
+            Deluxe.
+          </p>
+        </div>
+
+        <div className="carImageDiv1">
+          <img
+            style={{ width: "300px", height: "250px" }}
+            src="./images/Ambassador2.jpg"
+          ></img>
+
+          <p>Ambassador Classic</p>
+        </div>
+
+        <h3 className="carHeadings">Production years</h3>
+
+        <div className="carParagraphDiv">
+          <p className="carParagraph">
+            The political influence of the Birla family helped ensure that the
+            Ambassador was one of the few cars that were in production following
+            the 1954 government policy of promoting an indigenous Automobile
+            industry. It dominated the market for several decades, mostly due to
+            its spacious size and ruggedness compared to its rivals like the
+            Premier Padmini and Standard 10.[4] By the early 1980s, the
+            comparatively expensive Ambassador's low fuel economy and poor
+            quality began to hinder sales.<br></br> It still represented more
+            than two thirds of Indian car production, but wait lists were down
+            to 12 months while the Premier Padmini had a wait list nearly five
+            years long.[5] The Ambassador remained dominant in the official and
+            company sectors, while also popular as a taxi, but private motorists
+            gradually abandoned the "Amby" in the 1980s and 1990s.
+          </p>
+        </div>
+
+        <div className="carImageDiv1">
+          <img
+            style={{ width: "300px", height: "250px" }}
+            src="./images/Kolkata taxi.jpg"
+          ></img>
+          <p>Yellow Taxis in Calcutta/Kolkata</p>
+        </div>
+
+        <hr></hr>
+
+        <h1 className="carHeadings">Fiat 1100</h1>
+
+        <div className="carParagraphDiv">
+          <p
+            className="carParagraph"
+            style={{ position: "relative", bottom: "70px" }}
+          >
+            The Fiat 1100 is a small family car produced from 1953 until 1969 by
+            the Italian manufacturer Fiat. It was an all-new unibody replacement
+            for the Fiat 1100 E, which descended from the pre-war, body-on-frame
+            Fiat 508 C Balilla 1100. <br></br> The 1100 was changed steadily and
+            gradually until being replaced by the new Fiat 128 in 1969. There
+            were also a series of light commercial versions of the 1100 built,
+            with later models called the Fiat 1100T, which remained in
+            production until 1971. The Fiat 1100 D also found a long life in
+            India, where Premier Automobiles continued to build the car until
+            the end of 2000
+          </p>
+        </div>
+
+        <div className="carImageDiv1">
+          <img style={{ width: "100%" }} src="./images/Fiat 2013.jpeg"></img>
+          <p>
+            Fiat 1100D, built under license by Premier Automobiles later
+            re-christened 'Premier Padmini' was the Ambassador's only true
+            competitor.
+          </p>
+        </div>
+
+        <div className="carParagraphDiv">
+          <p className="carParagraph">
+            The Fiat Nuova 1100, or Fiat 1100/103 as it was called after its
+            internal project number, was introduced at the April 1953 Geneva
+            Motor Show.[3][4] Unlike the 1100 E it replaced, the 103 had a
+            modern four-door saloon pontoon body topping new unibody
+            construction, both pioneered in Fiat's range by the 1950 1400.[4][5]
+            If the 103's body was all-new, its engine was well-tested; the car's
+            engine debuted in 1937 on the predecessor of the outgoing 1100 E,
+            the 508 C Balilla 1100. Updated as type 103.000, the 1,089 cc (66 cu
+            in) overhead valve four-cylinder was fed by a single Solex or Weber
+            downdraught carburettor, and put out 36 PS CUNA (26 kW) at 4,400
+            rpm—just one horsepower more than on the 1100 E.[4] The 4-speed
+            manual transmission had synchromesh on the top three speeds and a
+            column-mounted shifter, fashionable at the time.<br></br> The car
+            could reach a top speed of 116 km/h (72 mph).[4] The new model was
+            offered in two different versions: the spartan Tipo A and richer
+            Tipo B. The former was only available in a grey-brown paint colour,
+            had separate front seats instead of a bench, reduced, non-chromed
+            exterior trim, and lacked a heater and ventilation.[4][6] The Type A
+            right hand drive export models were only available in black. They
+            were also equipped with a heater and ventilation system as well.
+            <br></br> The Type A cars also came with slightly broader body trim
+            strips compared to the Type B. On left hand drive versions of the
+            both Type A and Type B cars, the dashboard contained a large plastic
+            badge (on the right hand side) stating "Millecento" covering the
+            orifice where a radio could be installed. However on the right hand
+            drive cars, this badge which was located on the left hand side
+            contained the wording Fiat 1100 on the Type A cars and Millecento on
+            the Type B cars.<br></br> The type B came in a choice of paint hues
+            and interior fabrics, and could be ordered with factory-fitted
+            whitewall tyres and radio.[citation needed] A distinguishing feature
+            of 103s throughout the 1950s were the doors, both hinged on the
+            centre pillar;[4] this would only change in 1960, when the 1100
+            started to adopt the more modern bodyshell of the Fiat 1200 saloon.
+            <br></br> Unlike the earlier body-on-frame 1100 series, there was no
+            NSU-developed two-door sedan model.
+          </p>
+        </div>
+
+        <div
+          style={{ position: "relative", bottom: "70px" }}
+          className="carImageDiv1"
+        >
+          <img
+            style={{ width: "300px", height: "250px", position: "relative", bottom: "100px" }}
+            src="./images/Fiat-1100.jpg"
+          ></img>
+          <img
+            style={{ width: "300px", height: "250px" }}
+            src="./images/Fiat 1.JPG"
+          ></img>
+          <p>Fiat 1100 Millecento was launched in 1954</p>
+        </div>
+
+        <hr></hr>
+
+        <h1 className="carHeadings">Tata Motors</h1>
+        <h2 className="carHeadings">History</h2>
+        <div className="carParagraphDiv">
+        <p className="carParagraph" style={{ position: "relative", bottom: "80px"}}>
+          Tata Motors was founded in 1945, as a locomotive manufacturer. Tata
+          Group entered the commercial vehicle sector in 1954 after forming a
+          joint venture with Daimler-Benz of Germany in which Tata developed a
+          manufacturing facility in Jamshedpur for Daimler lorries.[10] By
+          November 1954 Tata and Daimler manufactured their first goods carrier
+          chassis at their Jamshedpur plant with 90-100 hp and capacity of 3-5
+          tons.<br></br> After years of dominating the commercial vehicle market in
+          India, Tata Motors entered the passenger vehicle market in 1991 by
+          launching the Tata Sierra, a sport utility vehicle based on the Tata
+          Mobile platform. Tata subsequently launched the Tata Estate (1992; a
+          station wagon design based on the earlier Tata Mobile), the Tata Sumo
+          (1994, a 5-door SUV) and the Tata Safari (1998).[citation needed] Tata
+          Indica (first generation) Tata launched the Indica in 1998. A newer
+          version of the car, named Indica V2, later appeared.<br></br> Tata Motors also
+          exported cars to South Africa.[12] In the 2000s, Tata Motors made a
+          series of acquisitions and partnerships, acquiring Daewoo's South
+          Korea-based truck manufacturing unit,[13] a joint venture with the
+          Brazil-based Marcopolo, Tata Marcopolo Bus,[14] Jaguar Land
+          Rover.,[15][16][17][18] Hispano Carrocera,[19] and an 80% stake in the
+          Italian design and engineering company Trilix.
+        </p>
+        </div>
+
+       <div className="carImageDiv1">
+        <img style={{ width: "300px", height: "250px" }} src="./images/tata company.jpg"></img>
+        <p>Tata LPT Trucks made at overseas plants</p>
+        <img style={{ width: "300px", height: "250px" }} src="./images/Tata Indica.jpg"></img>
+        <p>Tata Indica (first generation)</p>
+       </div>
+
+       <hr></hr>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
         <div className="AppR">
           <h1 className="Heading1" id='heading1' style={{textAlign:"center",font:"4rem"}}>SHIP</h1>
           <hr></hr>
@@ -1736,287 +2074,11 @@ function App() {
           <img src="./plane/aero.jpeg" width="600px" height="400px"></img>
           <img src="./plane/aero2.jpg" width="600px" height="400px"></img>
 
-          <h1 style={{ textAlign: "center" }}>Automotive industry in India</h1>
-          <hr></hr>
-          <p>
-            The automotive industry in India is the fourth-largest by production
-            in the world as per 2022 statistics.[1][2][3] As of 2023, India is
-            the 3rd largest automobile market in the world in terms of sales.[4]
-            In 2022, India became the fourth largest country in the world by the
-            valuation of its automotive industry.
-          </p>
 
-          <p>
-            As of April 2022, India's auto industry is worth more than US$100
-            billion and accounts for 8% of the country's total exports and 7.1%
-            of India's GDP.[5] According to the 2021 National Family Health
-            Survey, barely 8% of Indian households own an automobile.[6][7]
-            According to government statistics, India has barely 22 automobiles
-            per 1,000 people
-          </p>
-        </div>
-        <hr></hr>
 
-        <div className="App">
-          <h2>History</h2>
-          <div className="paragraphDiv">
-            <p style={{ position: "relative", bottom: "30px" }}>
-              In 1897, the first car ran on an Indian road. Through the 1930s,
-              cars were imports only, and in small numbers. An embryonic
-              automotive industry emerged in India in the 1940s. Hindustan
-              Motors was launched in 1942 building Morris products, long-time
-              competitor Premier in 1944, building Chrysler Corporation products
-              such as Dodge and Plymouth, and beginning in the 1960s, Fiat
-              products.[10] Mahindra & Mahindra was established by two brothers
-              in 1945 and began assembly of Jeep CJ-3A utility vehicles.
-              <br></br> In the same years, J. R. D. Tata, the chairman of Tata
-              Group founded TATA Engineering and Locomotive Company (now Tata
-              Motors) in Jamshedpur. Following independence in 1947, the
-              Government of India and the private sector launched efforts to
-              create an automotive-component manufacturing industry to supply to
-              the automobile industry. In 1953, an import substitution programme
-              was launched, and the import of fully built-up cars began to be
-              restricted.
-            </p>
-          </div>
 
-          <div
-            style={{ position: "relative", bottom: "30px" }}
-            className="imgDiv1"
-          >
-            <img
-              style={{ width: "300px", height: "250px" }}
-              src="./images/first car showroom.jpeg"
-            ></img>
-            <p>
-              A pre-Independence car showroom in Secunderabad, showing Fiat
-              Topolino and Fiat 1100
-            </p>
-          </div>
 
-          <hr></hr>
-          <h3>1947–1970</h3>
 
-          <div className="paragraphDiv">
-            <p>
-              In 1952, the Indian government appointed the first Tariff
-              Commission, whose purpose was to come out with a feasibility plan
-              for the indigenization of the Indian automobile industry. In 1953,
-              the commission submitted its report, which recommended
-              categorizing existing Indian car companies according to their
-              manufacturing infrastructure, under a licensed capacity to
-              manufacture a certain number of vehicles, with capacity increases
-              allowable, as per demands, in the future.<br></br> The Tariff
-              Commission recommendations were implemented with new policies that
-              would eventually exclude companies that only imported parts for
-              assembly, as well as those with no Indian partner.<br></br> In
-              1954, following the Tariff Commission implementation, General
-              Motors, Ford, and Rootes Group, which had assembly-only plants in
-              Mumbai, decided to move out of India.[11] The Tariff commission
-              policies, including similar restrictions that applied to other
-              industries, came to be known as the Licence Raj, which proved to
-              be the greatest undoing of the Indian automotive industry, where
-              bureaucratic red tape ended up causing demand to outstrip supply,
-              with month-long waiting periods for cars, scooters, and
-              motorcycles.
-            </p>
-          </div>
-
-          <div
-            style={{ position: "relative", bottom: "60px" }}
-            className="imgDiv1"
-          >
-            <img
-              style={{ width: "300px", height: "300px" }}
-              src="./images/Kolkata 1945.jpg"
-            ></img>
-            <p>Kolkata street traffic in 1945</p>
-          </div>
-
-          <hr></hr>
-
-          <h1>Hindustan Ambassador</h1>
-          <div className="paragraphDiv">
-            <p style={{ position: "relative", bottom: "30px" }}>
-              The Hindustan Ambassador is an automobile that was manufactured by
-              Hindustan Motors of India from 1957 to 2014, with improvements and
-              changes over its production lifetime. The Ambassador was based on
-              the Morris Oxford series III model, first made by Morris Motors
-              Limited at Cowley, Oxford in the United Kingdom from 1956 to 1959.
-              <br></br> Despite its British origins, the Ambassador was
-              considered as a definitive Indian car and was fondly called the
-              "King of Indian roads".[1] The automobile was manufactured by
-              Hindustan Motors at its Uttarpara plant[2] near Kolkata, West
-              Bengal. <br></br> On 11 February 2017, Hindustan Motors executed
-              an agreement with PSA Group for the sale of the Ambassador brand,
-              including the trademarks, for a consideration of ₹80 crore (US$10
-              million).[3] The tie-up entailed two joint-venture agreements
-              between the companies of the two groups.
-            </p>
-          </div>
-
-          <div className="imgDiv1">
-            <img
-              style={{ width: "300px", height: "250px" }}
-              src="./images/Ambassador.jpg"
-            ></img>
-            <p>
-              The Hindustan Ambassador dominated India's automotive market from
-              the 1960s until the mid-1980s and was manufactured until 2014
-            </p>
-          </div>
-
-          <hr></hr>
-
-          <h2>History</h2>
-          <h3>Design and development</h3>
-
-          <div className="paragraphDiv">
-            <p>
-              The Ambassador was basically the same Morris Oxford Series - III,
-              launched by Morris, then a part of British Motor Corporation. In
-              1956 it sold the rights and tooling to Hindustan Motors as it had
-              done for its previous Series - I and Series - II models which were
-              sold by Hindustan Motors as Hindustan 14 and Landmaster. The
-              Series -III model itself was a derivative of the Morris Oxford
-              Series - II model which was developed prior to the Austin and
-              Morris merger.
-              <br></br> The car was quite spacious due to its semi-monocoque
-              design which was quite an advancement in the early 1950s in
-              vehicle engineering. The car was designed by Alec Issigonis whose
-              other designs were the Mini and Morris Minor. The Ambassador
-              replaced the Morris Oxford Series II based Hindustan Landmaster,
-              which was quite similar, and the larger Hindustan Deluxe based on
-              the Chevrolet Deluxe.
-            </p>
-          </div>
-
-          <div className="imgDiv1">
-            <img
-              style={{ width: "300px", height: "250px" }}
-              src="./images/Ambassador2.jpg"
-            ></img>
-
-            <p>Ambassador Classic</p>
-          </div>
-
-          <hr></hr>
-
-          <h3>Production years</h3>
-
-          <div className="paragraphDiv">
-            <p>
-              The political influence of the Birla family helped ensure that the
-              Ambassador was one of the few cars that were in production
-              following the 1954 government policy of promoting an indigenous
-              Automobile industry. It dominated the market for several decades,
-              mostly due to its spacious size and ruggedness compared to its
-              rivals like the Premier Padmini and Standard 10.[4] By the early
-              1980s, the comparatively expensive Ambassador's low fuel economy
-              and poor quality began to hinder sales.<br></br> It still
-              represented more than two thirds of Indian car production, but
-              wait lists were down to 12 months while the Premier Padmini had a
-              wait list nearly five years long.[5] The Ambassador remained
-              dominant in the official and company sectors, while also popular
-              as a taxi, but private motorists gradually abandoned the "Amby" in
-              the 1980s and 1990s.
-            </p>
-          </div>
-
-          <div className="imgDiv1">
-            <img
-              style={{ width: "300px", height: "250px" }}
-              src="./images/Kolkata taxi.jpg"
-            ></img>
-            <p>Yellow Taxis in Calcutta/Kolkata</p>
-          </div>
-
-          <hr></hr>
-
-          <h1>Fiat 1100</h1>
-
-          <div className="paragraphDiv">
-            <p style={{ position: "relative", bottom: "70px" }}>
-              The Fiat 1100 is a small family car produced from 1953 until 1969
-              by the Italian manufacturer Fiat. It was an all-new unibody
-              replacement for the Fiat 1100 E, which descended from the pre-war,
-              body-on-frame Fiat 508 C Balilla 1100. <br></br> The 1100 was
-              changed steadily and gradually until being replaced by the new
-              Fiat 128 in 1969. There were also a series of light commercial
-              versions of the 1100 built, with later models called the Fiat
-              1100T, which remained in production until 1971. The Fiat 1100 D
-              also found a long life in India, where Premier Automobiles
-              continued to build the car until the end of 2000
-            </p>
-          </div>
-
-          <div className="imgDiv1">
-            <img src="./images/Fiat 2013.jpeg"></img>
-            <p>
-              Fiat 1100D, built under license by Premier Automobiles later
-              re-christened 'Premier Padmini' was the Ambassador's only true
-              competitor.
-            </p>
-          </div>
-
-          <div className="paragraphDiv">
-            <p>
-              The Fiat Nuova 1100, or Fiat 1100/103 as it was called after its
-              internal project number, was introduced at the April 1953 Geneva
-              Motor Show.[3][4] Unlike the 1100 E it replaced, the 103 had a
-              modern four-door saloon pontoon body topping new unibody
-              construction, both pioneered in Fiat's range by the 1950
-              1400.[4][5] If the 103's body was all-new, its engine was
-              well-tested; the car's engine debuted in 1937 on the predecessor
-              of the outgoing 1100 E, the 508 C Balilla 1100. Updated as type
-              103.000, the 1,089 cc (66 cu in) overhead valve four-cylinder was
-              fed by a single Solex or Weber downdraught carburettor, and put
-              out 36 PS CUNA (26 kW) at 4,400 rpm—just one horsepower more than
-              on the 1100 E.[4] The 4-speed manual transmission had synchromesh
-              on the top three speeds and a column-mounted shifter, fashionable
-              at the time.<br></br> The car could reach a top speed of 116 km/h
-              (72 mph).[4] The new model was offered in two different versions:
-              the spartan Tipo A and richer Tipo B. The former was only
-              available in a grey-brown paint colour, had separate front seats
-              instead of a bench, reduced, non-chromed exterior trim, and lacked
-              a heater and ventilation.[4][6] The Type A right hand drive export
-              models were only available in black. They were also equipped with
-              a heater and ventilation system as well.
-              <br></br> The Type A cars also came with slightly broader body
-              trim strips compared to the Type B. On left hand drive versions of
-              the both Type A and Type B cars, the dashboard contained a large
-              plastic badge (on the right hand side) stating "Millecento"
-              covering the orifice where a radio could be installed. However on
-              the right hand drive cars, this badge which was located on the
-              left hand side contained the wording Fiat 1100 on the Type A cars
-              and Millecento on the Type B cars.<br></br> The type B came in a
-              choice of paint hues and interior fabrics, and could be ordered
-              with factory-fitted whitewall tyres and radio.[citation needed] A
-              distinguishing feature of 103s throughout the 1950s were the
-              doors, both hinged on the centre pillar;[4] this would only change
-              in 1960, when the 1100 started to adopt the more modern bodyshell
-              of the Fiat 1200 saloon.
-              <br></br> Unlike the earlier body-on-frame 1100 series, there was
-              no NSU-developed two-door sedan model.
-            </p>
-          </div>
-
-          <div
-            style={{ position: "relative", bottom: "70px" }}
-            className="imgDiv1"
-          >
-            <img
-              style={{ width: "300px", height: "250px", paddingBottom: "50px" }}
-              src="./images/Fiat-1100.jpg"
-            ></img>
-            <img
-              style={{ width: "300px", height: "250px" }}
-              src="./images/Fiat 1.JPG"
-            ></img>
-            <p>Fiat 1100 Millecento was launched in 1954</p>
-          </div>
-
-          <hr></hr>
       
       </div>
     </div>

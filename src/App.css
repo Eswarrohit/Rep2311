@@ -202,6 +202,51 @@ p{
   text-align: center;
 }
 
+
+
+
+/* --------------------------------Dilli-------------------------------- */
+
+.carAppDiv {
+  text-align: center;
+  margin: 0% auto;
+  width: 70%;
+  background-color: blanchedalmond;
+}
+
+.carImageDiv1 {
+  width: 35%;
+  display: inline-block;
+  padding: 10px;
+}
+
+.carParagraphDiv {
+  display: inline-block;
+  width: 55%;
+  padding-right: 20px;
+}
+
+.carParagraph {
+  text-align: justify;
+}
+
+.carHeadings {
+  text-align: start;
+  color:brown;
+  margin: 30px;
+}
+
+.carHeadingDiv {
+  text-align: justify;
+  margin: 20px;
+  background-color: blanchedalmond;
+
+}
+
+
+/* --------------------------------------------------------------------------------------------------------- */
+
+
 /* ------------------ROHITH----------------------------------------------------------------------------- */
 
 * {
